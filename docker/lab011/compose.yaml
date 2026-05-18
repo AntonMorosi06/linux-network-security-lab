@@ -1,0 +1,32 @@
+name: linux-sec-lab011
+
+services:
+  api:
+    build:
+      context: ./api
+    container_name: lab011_api
+    networks:
+      - lab011_net
+    expose:
+      - "8601"
+    environment:
+      - LAB_NAME=lab011
+      - API_PORT=8601
+    restart: unless-stopped
+
+  reverse_proxy:
+    image: nginx:1.27-alpine
+    container_name: lab011_reverse_proxy
+    depends_on:
+      - api
+    networks:
+      - lab011_net
+    ports:
+      - "127.0.0.1:8600:8600"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    restart: unless-stopped
+
+networks:
+  lab011_net:
+    driver: bridge

@@ -1,0 +1,68 @@
+LAB 011 EXPECTED OUTPUTS
+Docker Compose API, Reverse Proxy and Local Logs
+
+Example 1 - Requirements
+
+[OK] docker command found
+[OK] Docker daemon is reachable.
+[OK] docker compose is available.
+
+Meaning:
+Docker and Compose are usable.
+
+Example 2 - Compose up
+
+[OK] Compose stack is running.
+[INFO] Proxy URL: http://127.0.0.1:8600/status
+
+Meaning:
+The API and reverse proxy containers were started.
+
+Example 3 - Proxy status
+
+HTTP/1.1 200 OK
+
+{"service":"lab011_reverse_proxy","status":"ok","upstream":"api:8601"}
+
+Meaning:
+Nginx reverse proxy is reachable from the host.
+
+Example 4 - API through proxy
+
+{
+  "service": "compose_lab011_api",
+  "status": "ok",
+  "served_by": "api",
+  "port": 8601
+}
+
+Meaning:
+The host reached the API through the reverse proxy.
+
+Example 5 - Headers endpoint
+
+{
+  "headers_seen_by_api": {
+    "X-Forwarded-For": "172.x.x.x",
+    "X-Forwarded-Proto": "http",
+    "X-Proxy-Lab": "lab011"
+  }
+}
+
+Meaning:
+The reverse proxy forwarded request metadata to the API.
+
+Example 6 - Logs
+
+reverse_proxy  | GET /status HTTP/1.1
+api            | {"request": "GET /status HTTP/1.0", ...}
+
+Meaning:
+Both proxy and API logged the request path.
+
+Example 7 - Cleanup
+
+[OK] Compose stack stopped and removed.
+
+Meaning:
+Compose resources were cleaned up.

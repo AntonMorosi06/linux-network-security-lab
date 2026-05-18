@@ -74,3 +74,4 @@ This repository will be expanded progressively with documented labs, command sni
 - Lab 008 — Local JSON API, Structured Logs and Mini Detector
 - Lab 009 — Local API Security Controls
 - Lab 010 — Docker Bridge Network and Container Diagnostics
+- Lab 011 — Docker Compose API, Reverse Proxy and Local Logs
