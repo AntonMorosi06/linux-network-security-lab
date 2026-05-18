@@ -1,0 +1,57 @@
+LAB 007 EXPECTED OUTPUTS
+Traffic Shaping, Latency, Packet Loss and Bandwidth Limits
+
+Example 1 - Baseline qdisc
+
+qdisc noqueue 0: dev veth_client root refcnt 2
+
+Meaning:
+No custom traffic shaping is currently applied.
+
+Example 2 - netem delay
+
+qdisc netem 8001: dev veth_client root refcnt 2 limit 1000 delay 200ms
+
+Meaning:
+The interface has an artificial 200 ms delay.
+
+Example 3 - ping after delay
+
+64 bytes from 10.10.2.2: icmp_seq=1 ttl=63 time=400 ms
+64 bytes from 10.10.2.2: icmp_seq=2 ttl=63 time=400 ms
+
+Meaning:
+The round-trip time increased after latency simulation.
+
+Example 4 - netem loss
+
+qdisc netem 8001: dev veth_client root refcnt 2 limit 1000 loss 30%
+
+Meaning:
+The interface is configured to drop approximately 30% of packets.
+
+Example 5 - ping after packet loss
+
+10 packets transmitted, 7 received, 30% packet loss
+
+Meaning:
+Packet loss simulation is active.
+
+Example 6 - tbf bandwidth limit
+
+qdisc tbf 8001: dev veth_client root refcnt 2 rate 512Kbit burst 4Kb lat 400ms
+
+Meaning:
+The interface is rate-limited.
+
+Example 7 - curl timing output
+
+DNS lookup: 0.000000
+Connect: 0.001234
+Start transfer: 0.003210
+Total: 0.015678
+Speed download: 12345 bytes/s
+HTTP code: 200
+
+Meaning:
+curl measured the application-level timing and download speed.
