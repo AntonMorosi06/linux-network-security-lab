@@ -1,0 +1,65 @@
+LAB 006 EXPECTED OUTPUTS
+Firewall and NAT inside a Network Namespace Router
+
+Example 1 - Stateful firewall ruleset
+
+table inet lab_fw {
+  chain forward {
+    type filter hook forward priority filter; policy drop;
+    ct state established,related counter packets 0 bytes 0 accept
+    ip protocol icmp counter packets 0 bytes 0 accept
+    ip saddr 10.10.1.2 ip daddr 10.10.2.2 tcp dport 8080 ct state new counter packets 0 bytes 0 accept
+    counter packets 0 bytes 0 drop
+  }
+}
+
+Meaning:
+The router blocks forwarded traffic by default and explicitly allows ICMP and HTTP from client to server.
+
+Example 2 - HTTP allowed
+
+HTTP server inside lab_server namespace
+
+Meaning:
+The firewall allowed TCP traffic from 10.10.1.2 to 10.10.2.2:8080.
+
+Example 3 - HTTP blocked
+
+curl: (28) Connection timed out after 3000 milliseconds
+
+Meaning:
+The router firewall dropped HTTP traffic.
+
+Example 4 - Firewall counter
+
+ip saddr 10.10.1.2 ip daddr 10.10.2.2 tcp dport 8080 ct state new counter packets 2 bytes 120 accept
+
+Meaning:
+Two new HTTP connection packets matched the allow rule.
+
+Example 5 - SNAT ruleset
+
+table ip lab_nat {
+  chain postrouting {
+    type nat hook postrouting priority srcnat; policy accept;
+    ip saddr 10.10.1.2 ip daddr 10.10.2.2 snat to 10.10.2.1
+  }
+}
+
+Meaning:
+Traffic from the client to the server has its source rewritten to 10.10.2.1.
+
+Example 6 - tcpdump with SNAT
+
+IP 10.10.2.1.54321 > 10.10.2.2.8080: Flags [S]
+IP 10.10.2.2.8080 > 10.10.2.1.54321: Flags [S.]
+
+Meaning:
+The server sees the router-side address 10.10.2.1, not the original client address 10.10.1.2.
+
+Example 7 - connection refused
+
+curl: (7) Failed to connect to 10.10.2.2 port 8080: Connection refused
+
+Meaning:
+The firewall may allow traffic, but the server process is not listening.

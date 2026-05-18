@@ -69,3 +69,4 @@ This repository will be expanded progressively with documented labs, command sni
 - Lab 003 — Ports, Processes, Logs and Local Diagnostics
 - Lab 004 — DNS, Routing and Connectivity Diagnostics
 - Lab 005 — Network Namespace Client-Router-Server Topology
+- Lab 006 — Firewall and NAT inside a Network Namespace Router
