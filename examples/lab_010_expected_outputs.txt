@@ -1,0 +1,69 @@
+LAB 010 EXPECTED OUTPUTS
+Docker Bridge Network and Container Diagnostics
+
+Example 1 - Requirements check
+
+[OK] docker command found
+Docker version 27.x.x
+[OK] Docker daemon is reachable.
+
+Meaning:
+Docker is installed and usable.
+
+Example 2 - Image build
+
+[OK] Docker image built: linux-sec-lab010-api
+
+Meaning:
+The Dockerfile was built successfully.
+
+Example 3 - Network create
+
+[OK] Network ready: lab010_bridge_net
+
+Meaning:
+The custom bridge network exists.
+
+Example 4 - Server run
+
+[OK] Server container running: lab010_api_server
+[INFO] Host URL: http://127.0.0.1:8500/status
+
+Meaning:
+The API container is running and its port is published to localhost.
+
+Example 5 - Host test
+
+{
+  "service": "docker_lab010_api",
+  "status": "ok",
+  "context": "container",
+  "port": 8500
+}
+
+Meaning:
+The host can reach the container through the published port.
+
+Example 6 - Container test
+
+[CLIENT] Testing URL: http://lab010_api_server:8500/status
+[CLIENT] HTTP status: 200
+
+Meaning:
+A second container can reach the server container by Docker DNS name.
+
+Example 7 - Docker logs
+
+[API] Docker Lab 010 server listening on 0.0.0.0:8500
+[API] Endpoints: /status, /health, /env
+
+Meaning:
+The containerized API server started correctly.
+
+Example 8 - Cleanup
+
+[OK] Removed container: lab010_api_server
+[OK] Removed network: lab010_bridge_net
+
+Meaning:
+The lab resources were removed cleanly.
