@@ -67,3 +67,4 @@ This repository will be expanded progressively with documented labs, command sni
 - Lab 001 — Local System and Network Baseline
 - Lab 002 — Local HTTP Server, curl, ss and tcpdump
 - Lab 003 — Ports, Processes, Logs and Local Diagnostics
+- Lab 004 — DNS, Routing and Connectivity Diagnostics

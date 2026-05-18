@@ -1,0 +1,55 @@
+LAB 004 EXPECTED OUTPUTS
+DNS, Routing and Connectivity Diagnostics
+
+Example 1 - Interface summary
+
+lo      UNKNOWN 127.0.0.1/8 ::1/128
+wlan0   UP      192.168.1.45/24
+
+Meaning:
+The loopback interface exists and the wireless interface has a private IPv4 address.
+
+Example 2 - Routing table
+
+default via 192.168.1.1 dev wlan0 proto dhcp metric 600
+192.168.1.0/24 dev wlan0 proto kernel scope link src 192.168.1.45
+
+Meaning:
+The machine sends non-local traffic to gateway 192.168.1.1 through wlan0.
+
+Example 3 - Route to public IP
+
+1.1.1.1 via 192.168.1.1 dev wlan0 src 192.168.1.45
+
+Meaning:
+Linux would reach 1.1.1.1 through the gateway using source IP 192.168.1.45.
+
+Example 4 - Loopback ping
+
+4 packets transmitted, 4 received, 0% packet loss
+
+Meaning:
+The local TCP/IP stack and loopback interface are working.
+
+Example 5 - DNS resolution
+
+93.184.216.34 example.com
+
+Meaning:
+The system resolved example.com to an IPv4 address.
+
+Example 6 - DNS problem pattern
+
+ping 1.1.1.1 works
+getent hosts example.com fails
+
+Meaning:
+IP connectivity may work, but DNS resolution is likely broken.
+
+Example 7 - HTTPS test
+
+HTTP/2 200
+content-type: text/html
+
+Meaning:
+DNS, TCP, TLS and HTTP-level connectivity are working.
