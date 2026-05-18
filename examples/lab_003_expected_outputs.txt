@@ -1,0 +1,40 @@
+LAB 003 EXPECTED OUTPUTS
+Ports, Processes, Logs and Local Diagnostics
+
+Example 1 - Listening port with ss
+
+LISTEN 0 5 127.0.0.1:8080 0.0.0.0:* users:(("python3",pid=12345,fd=3))
+
+Meaning:
+A Python process is listening on local TCP port 8080.
+
+Example 2 - lsof output
+
+COMMAND   PID   USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+python3 12345  anton    3u  IPv4 123456      0t0  TCP 127.0.0.1:8080 (LISTEN)
+
+Meaning:
+The process python3 with PID 12345 owns the listening socket.
+
+Example 3 - systemctl failed output when clean
+
+0 loaded units listed.
+
+Meaning:
+No systemd services are currently failed.
+
+Example 4 - journalctl controlled event
+
+May 18 12:35:00 anton-linux anton: LINUX_LAB_003: normal diagnostic event
+May 18 12:35:01 anton-linux anton: LINUX_LAB_003: controlled warning event
+May 18 12:35:02 anton-linux anton: LINUX_LAB_003: controlled error event
+
+Meaning:
+The logger command successfully wrote controlled events to the system log.
+
+Example 5 - connection refused
+
+curl: (7) Failed to connect to 127.0.0.1 port 8080: Connection refused
+
+Meaning:
+The host is reachable, but no process is listening on that port.
