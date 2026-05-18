@@ -61,3 +61,8 @@ Do not scan, test, probe, or monitor systems that you do not own or do not have 
 Initial public baseline created.
 
 This repository will be expanded progressively with documented labs, command snippets, expected outputs, explanations, troubleshooting notes, and defensive security reports.
+
+## Labs
+
+- Lab 001 — Local System and Network Baseline
+- Lab 002 — Local HTTP Server, curl, ss and tcpdump
