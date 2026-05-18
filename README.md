@@ -72,3 +72,4 @@ This repository will be expanded progressively with documented labs, command sni
 - Lab 006 — Firewall and NAT inside a Network Namespace Router
 - Lab 007 — Traffic Shaping, Latency, Packet Loss and Bandwidth Limits
 - Lab 008 — Local JSON API, Structured Logs and Mini Detector
+- Lab 009 — Local API Security Controls

@@ -1,0 +1,100 @@
+LAB 009 EXPECTED OUTPUTS
+Local API Security Controls
+
+Example 1 - API start
+
+[SECURE-API] Listening on http://127.0.0.1:8400
+[SECURE-API] Logs: /Users/antonmorosi/linux_lab/api_security_controls/logs/security_events.jsonl
+[SECURE-API] Tokens:
+  X-API-Key: microbot-api-token
+  X-Admin-Key: microbot-admin-token
+
+Meaning:
+The local security API is running.
+
+Example 2 - Public endpoint
+
+{
+  "service": "secure_api_lab",
+  "status": "ok",
+  "public": true
+}
+
+Meaning:
+A public endpoint can be reached without authentication.
+
+Example 3 - Missing API key
+
+HTTP/1.0 401 Unauthorized
+
+{
+  "error": "unauthorized",
+  "message": "missing or invalid X-API-Key"
+}
+
+Meaning:
+The API rejected a protected request without a valid API key.
+
+Example 4 - Valid API key
+
+HTTP/1.0 200 OK
+
+{
+  "node_id": "node-001",
+  "battery": 87,
+  "temperature_c": 31.5,
+  "status": "nominal"
+}
+
+Meaning:
+The API accepted the authenticated telemetry request.
+
+Example 5 - Validation error
+
+HTTP/1.0 400 Bad Request
+
+{
+  "error": "validation_error",
+  "field": "node_id",
+  "expected": "node-001 style format"
+}
+
+Meaning:
+The API rejected unsafe or malformed input.
+
+Example 6 - Forbidden admin request
+
+HTTP/1.0 403 Forbidden
+
+{
+  "error": "forbidden",
+  "message": "admin key required"
+}
+
+Meaning:
+The API recognized the endpoint but refused access without admin authorization.
+
+Example 7 - Rate limit
+
+HTTP/1.0 429 Too Many Requests
+
+{
+  "error": "rate_limited",
+  "message": "too many requests in local lab window"
+}
+
+Meaning:
+The rate limiter detected too many requests from the same local client.
+
+Example 8 - Detector summary
+
+Total events: 80
+auth_failure: 7
+forbidden: 1
+validation_error: 6
+rate_limited: 12
+not_found: 6
+Severity: HIGH
+
+Meaning:
+The controlled traffic generated multiple defensive signals.
