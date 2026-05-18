@@ -1,0 +1,81 @@
+LAB 005 EXPECTED OUTPUTS
+Network Namespace Client-Router-Server Topology
+
+Example 1 - Namespace list
+
+lab_server
+lab_router
+lab_client
+
+Meaning:
+The three isolated network environments exist.
+
+Example 2 - Client address
+
+lo             UNKNOWN        127.0.0.1/8 ::1/128
+veth_client    UP             10.10.1.2/24
+
+Meaning:
+The client namespace has loopback and one virtual Ethernet interface.
+
+Example 3 - Router addresses
+
+lo                    UNKNOWN        127.0.0.1/8 ::1/128
+veth_router_client    UP             10.10.1.1/24
+veth_router_server    UP             10.10.2.1/24
+
+Meaning:
+The router namespace has two interfaces, one on each subnet.
+
+Example 4 - Server address
+
+lo             UNKNOWN        127.0.0.1/8 ::1/128
+veth_server    UP             10.10.2.2/24
+
+Meaning:
+The server namespace is on the 10.10.2.0/24 subnet.
+
+Example 5 - Client route
+
+default via 10.10.1.1 dev veth_client
+10.10.1.0/24 dev veth_client proto kernel scope link src 10.10.1.2
+
+Meaning:
+The client sends non-local traffic to the router interface 10.10.1.1.
+
+Example 6 - Server route
+
+default via 10.10.2.1 dev veth_server
+10.10.2.0/24 dev veth_server proto kernel scope link src 10.10.2.2
+
+Meaning:
+The server sends non-local traffic to the router interface 10.10.2.1.
+
+Example 7 - IP forwarding
+
+net.ipv4.ip_forward = 1
+
+Meaning:
+The router namespace is allowed to forward IPv4 packets between its interfaces.
+
+Example 8 - Successful ping
+
+3 packets transmitted, 3 received, 0% packet loss
+
+Meaning:
+Connectivity is working.
+
+Example 9 - HTTP test
+
+HTTP server inside lab_server namespace
+
+Meaning:
+The client reached the HTTP server through the router namespace.
+
+Example 10 - tcpdump HTTP capture
+
+IP 10.10.1.2.54321 > 10.10.2.2.8080: Flags [S]
+IP 10.10.2.2.8080 > 10.10.1.2.54321: Flags [S.]
+
+Meaning:
+The router observed a TCP connection between client and server.
