@@ -1,0 +1,45 @@
+{
+  "rules": [
+    {
+      "id": "AUTH_FAILURE_THRESHOLD",
+      "description": "Multiple authentication failures in the local event file.",
+      "field": "event_type",
+      "equals": "auth_failure",
+      "threshold": 5,
+      "severity": "MEDIUM"
+    },
+    {
+      "id": "NOT_FOUND_THRESHOLD",
+      "description": "Multiple not-found events.",
+      "field": "event_type",
+      "equals": "not_found",
+      "threshold": 3,
+      "severity": "LOW"
+    },
+    {
+      "id": "CONTROLLED_ERROR_THRESHOLD",
+      "description": "Multiple controlled 5xx error events.",
+      "field": "status",
+      "equals": 500,
+      "threshold": 2,
+      "severity": "MEDIUM"
+    },
+    {
+      "id": "ADMIN_ACCESS_OBSERVED",
+      "description": "Administrative access event observed.",
+      "field": "event_type",
+      "equals": "admin_access",
+      "threshold": 1,
+      "severity": "INFO"
+    },
+    {
+      "id": "MIXED_AUTH_AND_NOT_FOUND_PATTERN",
+      "description": "Authentication failures and not-found events both observed.",
+      "compound": [
+        {"field": "event_type", "equals": "auth_failure", "threshold": 5},
+        {"field": "event_type", "equals": "not_found", "threshold": 3}
+      ],
+      "severity": "HIGH"
+    }
+  ]
+}

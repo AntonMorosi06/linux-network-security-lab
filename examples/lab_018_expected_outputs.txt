@@ -1,0 +1,39 @@
+LAB 018 EXPECTED OUTPUTS
+Local SIEM-style Log Pipeline and Detection Rules
+
+Example 1
+
+[OK] Loaded rules: 5
+[OK] Rule validation completed.
+
+Meaning:
+The detection rule file is valid.
+
+Example 2
+
+Total events: 16
+Findings:
+  - AUTH_FAILURE_THRESHOLD severity=MEDIUM
+  - NOT_FOUND_THRESHOLD severity=LOW
+  - CONTROLLED_ERROR_THRESHOLD severity=MEDIUM
+  - ADMIN_ACCESS_OBSERVED severity=INFO
+  - MIXED_AUTH_AND_NOT_FOUND_PATTERN severity=HIGH
+
+Meaning:
+The analyzer found expected synthetic patterns.
+
+Example 3
+
+[OK] Generated synthetic events:
+~/linux_lab/lab018_siem/events/generated_events.jsonl
+
+Meaning:
+A fresh local event file was generated.
+
+Example 4
+
+[OK] Report created:
+~/linux_lab/reports/siem_lab018_timeline_report_YYYYMMDD_HHMMSS.txt
+
+Meaning:
+The timeline report was created.

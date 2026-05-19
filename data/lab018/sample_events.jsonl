@@ -1,0 +1,16 @@
+{"timestamp":"2026-05-20T10:00:00Z","source":"local_api","event_type":"status_ok","status":200,"src_ip":"127.0.0.1","user":"lab-user","path":"/status","message":"status endpoint reached"}
+{"timestamp":"2026-05-20T10:00:05Z","source":"local_api","event_type":"health_ok","status":200,"src_ip":"127.0.0.1","user":"lab-user","path":"/health","message":"health endpoint reached"}
+{"timestamp":"2026-05-20T10:00:10Z","source":"local_api","event_type":"auth_failure","status":401,"src_ip":"127.0.0.1","user":"anonymous","path":"/protected","message":"missing API key"}
+{"timestamp":"2026-05-20T10:00:15Z","source":"local_api","event_type":"auth_failure","status":401,"src_ip":"127.0.0.1","user":"anonymous","path":"/protected","message":"missing API key"}
+{"timestamp":"2026-05-20T10:00:20Z","source":"local_api","event_type":"auth_failure","status":401,"src_ip":"127.0.0.1","user":"anonymous","path":"/protected","message":"invalid API key"}
+{"timestamp":"2026-05-20T10:00:25Z","source":"local_api","event_type":"auth_failure","status":401,"src_ip":"127.0.0.1","user":"anonymous","path":"/protected","message":"invalid API key"}
+{"timestamp":"2026-05-20T10:00:30Z","source":"local_api","event_type":"auth_failure","status":401,"src_ip":"127.0.0.1","user":"anonymous","path":"/protected","message":"invalid API key"}
+{"timestamp":"2026-05-20T10:01:00Z","source":"reverse_proxy","event_type":"not_found","status":404,"src_ip":"127.0.0.1","user":"lab-user","path":"/missing-1","message":"unknown route"}
+{"timestamp":"2026-05-20T10:01:05Z","source":"reverse_proxy","event_type":"not_found","status":404,"src_ip":"127.0.0.1","user":"lab-user","path":"/missing-2","message":"unknown route"}
+{"timestamp":"2026-05-20T10:01:10Z","source":"reverse_proxy","event_type":"not_found","status":404,"src_ip":"127.0.0.1","user":"lab-user","path":"/missing-3","message":"unknown route"}
+{"timestamp":"2026-05-20T10:02:00Z","source":"capstone_api","event_type":"command_accepted","status":202,"src_ip":"127.0.0.1","user":"lab-user","path":"/command","message":"heartbeat command accepted"}
+{"timestamp":"2026-05-20T10:02:10Z","source":"capstone_api","event_type":"admin_access","status":200,"src_ip":"127.0.0.1","user":"admin","path":"/events","message":"events endpoint accessed with valid token"}
+{"timestamp":"2026-05-20T10:02:20Z","source":"capstone_api","event_type":"controlled_error","status":500,"src_ip":"127.0.0.1","user":"lab-user","path":"/error","message":"controlled local error"}
+{"timestamp":"2026-05-20T10:02:25Z","source":"capstone_api","event_type":"controlled_error","status":500,"src_ip":"127.0.0.1","user":"lab-user","path":"/error","message":"controlled local error"}
+{"timestamp":"2026-05-20T10:03:00Z","source":"prometheus","event_type":"scrape_ok","status":200,"src_ip":"127.0.0.1","user":"prometheus","path":"/metrics","message":"metrics scrape succeeded"}
+{"timestamp":"2026-05-20T10:03:05Z","source":"grafana","event_type":"dashboard_view","status":200,"src_ip":"127.0.0.1","user":"admin","path":"/dashboard","message":"local dashboard viewed"}
