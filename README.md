@@ -87,3 +87,5 @@ This repository will be expanded progressively with documented labs, command sni
 - Lab 018 — Local SIEM-style Log Pipeline and Detection Rules
 - Lab 018 — Local SIEM-style Log Pipeline and Detection Rules
 - Lab 019 — Incident Response Case File and Evidence Bundle
+- Lab 019 — Incident Response Case File and Evidence Bundle
+- Lab 020 — Final Master Index, Proof-of-Work Bundle and Release Candidate Review
