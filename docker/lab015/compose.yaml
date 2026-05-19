@@ -1,0 +1,46 @@
+name: linux-sec-lab015-capstone
+
+services:
+  api:
+    build:
+      context: ./api
+    container_name: lab015_api
+    networks:
+      - lab015_net
+    expose:
+      - "8801"
+    environment:
+      - API_PORT=8801
+      - API_TOKEN=capstone-local-token
+      - LAB_NAME=lab015
+    restart: unless-stopped
+
+  reverse_proxy:
+    image: nginx:1.27-alpine
+    container_name: lab015_reverse_proxy
+    depends_on:
+      - api
+    networks:
+      - lab015_net
+    ports:
+      - "127.0.0.1:8800:8800"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    restart: unless-stopped
+
+  prometheus:
+    image: prom/prometheus:v2.55.1
+    container_name: lab015_prometheus
+    depends_on:
+      - api
+    networks:
+      - lab015_net
+    ports:
+      - "127.0.0.1:9095:9090"
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+    restart: unless-stopped
+
+networks:
+  lab015_net:
+    driver: bridge

@@ -1,0 +1,40 @@
+LAB 015 EXPECTED OUTPUTS
+Final Capstone Secure Local Service
+
+Example 1
+
+[OK] Capstone stack is running.
+[INFO] Proxy URL: http://127.0.0.1:8800/status
+[INFO] Prometheus URL: http://127.0.0.1:9095
+
+Meaning:
+The capstone stack started correctly.
+
+Example 2
+
+HTTP/1.1 401 Unauthorized
+
+Meaning:
+The protected endpoint rejects missing API keys.
+
+Example 3
+
+HTTP/1.1 200 OK
+
+Meaning:
+The protected endpoint accepts the correct local lab token.
+
+Example 4
+
+capstone_requests_total 42
+
+Meaning:
+The metrics endpoint exposes request counters.
+
+Example 5
+
+[OK] Report created:
+~/linux_lab/reports/capstone_lab015_report_YYYYMMDD_HHMMSS.txt
+
+Meaning:
+The final capstone report was generated.
