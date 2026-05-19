@@ -1,0 +1,16 @@
+LAB 013 EXPECTED OUTPUTS
+GitHub Actions CI and Local Validation
+
+Example 1:
+[OK] Repository structure check passed.
+[OK] Bash syntax check passed.
+[OK] Python syntax check passed.
+[OK] Docker Compose config check completed.
+[OK] Local CI validation completed.
+
+Example 2:
+Linux Network Security Lab CI
+repository-validation passed
+bash-syntax passed
+python-syntax passed
+docker-compose-config passed

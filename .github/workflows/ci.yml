@@ -1,0 +1,57 @@
+name: Linux Network Security Lab CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  repository-validation:
+    name: Repository validation
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Show repository files
+        run: find . -maxdepth 3 -type f | sort | head -200
+      - name: Check repository structure
+        run: bash scripts/ci_check_repository_structure.sh
+
+  bash-syntax:
+    name: Bash syntax check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Check Bash scripts
+        run: bash scripts/ci_check_bash_syntax.sh
+
+  python-syntax:
+    name: Python syntax check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check Python files
+        run: bash scripts/ci_check_python_syntax.sh
+
+  docker-compose-config:
+    name: Docker Compose config check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Show Docker versions
+        run: |
+          docker --version
+          docker compose version
+      - name: Validate Compose files
+        run: bash scripts/ci_check_compose_files.sh
