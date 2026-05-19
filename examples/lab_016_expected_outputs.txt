@@ -1,0 +1,35 @@
+LAB 016 EXPECTED OUTPUTS
+Release Engineering, Repository Audit and Publication Readiness
+
+Example 1
+
+[OK] File exists: README.md
+[OK] File exists: VERSION
+[OK] File exists: CHANGELOG.md
+[OK] File exists: RELEASE_NOTES_v0.1.0.md
+
+Meaning:
+Release metadata is present.
+
+Example 2
+
+[INFO] Lab count: 16
+[OK] Lab count is 16 or higher.
+
+Meaning:
+The repository contains the expected first release baseline.
+
+Example 3
+
+[OK] No common secret-like files found.
+
+Meaning:
+The basic secret-like file check did not find .env, .pem, .key or .p12 files.
+
+Example 4
+
+[OK] Report created:
+~/linux_lab/reports/release_readiness_report_YYYYMMDD_HHMMSS.txt
+
+Meaning:
+The local release readiness report was generated.

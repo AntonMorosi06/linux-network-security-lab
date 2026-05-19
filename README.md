@@ -79,3 +79,4 @@ This repository will be expanded progressively with documented labs, command sni
 - Lab 013 — GitHub Actions CI and Local Validation
 - Lab 014 — Threat Modeling and Hardening Checklist
 - Lab 015 — Final Capstone Secure Local Service
+- Lab 016 — Release Engineering, Repository Audit and Publication Readiness
