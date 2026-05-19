@@ -1,0 +1,26 @@
+LAB 014 EXPECTED OUTPUTS
+Threat Modeling and Hardening Checklist
+
+Example 1
+
+[OK] Security document exists: security/THREAT_MODEL.md
+[OK] Security document exists: security/HARDENING_CHECKLIST.md
+[OK] Security document exists: security/RISK_REGISTER.md
+
+Meaning:
+The repository has dedicated defensive security documentation.
+
+Example 2
+
+[OK] Workflow exists: .github/workflows/ci.yml
+
+Meaning:
+The repository has GitHub Actions CI configured.
+
+Example 3
+
+[OK] Report created:
+~/linux_lab/reports/threat_model_report_YYYYMMDD_HHMMSS.txt
+
+Meaning:
+The local threat model report was generated successfully.
