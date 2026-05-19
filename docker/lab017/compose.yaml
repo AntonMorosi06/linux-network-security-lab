@@ -1,0 +1,54 @@
+name: linux-sec-lab017-grafana
+
+services:
+  observable_api:
+    build:
+      context: ./api
+    container_name: lab017_observable_api
+    networks:
+      - lab017_net
+    ports:
+      - "127.0.0.1:8901:8901"
+    environment:
+      - API_PORT=8901
+      - LAB_NAME=lab017
+    restart: unless-stopped
+
+  prometheus:
+    image: prom/prometheus:v2.55.1
+    container_name: lab017_prometheus
+    depends_on:
+      - observable_api
+    networks:
+      - lab017_net
+    ports:
+      - "127.0.0.1:9096:9090"
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - ./prometheus/alert_rules.yml:/etc/prometheus/alert_rules.yml:ro
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana-oss:11.3.0
+    container_name: lab017_grafana
+    depends_on:
+      - prometheus
+    networks:
+      - lab017_net
+    ports:
+      - "127.0.0.1:3001:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_USERS_ALLOW_SIGN_UP=false
+      - GF_ANALYTICS_REPORTING_ENABLED=false
+      - GF_ANALYTICS_CHECK_FOR_UPDATES=false
+    volumes:
+      - ./grafana/provisioning/datasources:/etc/grafana/provisioning/datasources:ro
+      - ./grafana/provisioning/dashboards:/etc/grafana/provisioning/dashboards:ro
+      - ./grafana/dashboards:/var/lib/grafana/dashboards:ro
+    restart: unless-stopped
+
+networks:
+  lab017_net:
+    driver: bridge

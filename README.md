@@ -80,3 +80,6 @@ This repository will be expanded progressively with documented labs, command sni
 - Lab 014 — Threat Modeling and Hardening Checklist
 - Lab 015 — Final Capstone Secure Local Service
 - Lab 016 — Release Engineering, Repository Audit and Publication Readiness
+- Lab 015 — Final Capstone Secure Local Service
+- Lab 016 — Release Engineering, Repository Audit and Publication Readiness
+- Lab 017 — Grafana Dashboard and Prometheus Alert Rules

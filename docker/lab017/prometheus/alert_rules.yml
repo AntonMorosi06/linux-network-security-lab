@@ -1,0 +1,32 @@
+groups:
+  - name: lab017_local_alerts
+    rules:
+      - alert: Lab017ApiTargetDown
+        expr: up{job="lab017_observable_api"} == 0
+        for: 10s
+        labels:
+          severity: critical
+          lab: lab017
+        annotations:
+          summary: "Lab017 observable API target is down"
+          description: "Prometheus cannot scrape the observable API target."
+
+      - alert: Lab017HighErrorCount
+        expr: lab017_error_requests_total >= 3
+        for: 5s
+        labels:
+          severity: warning
+          lab: lab017
+        annotations:
+          summary: "Lab017 API has elevated controlled errors"
+          description: "The local lab API error counter is above the demonstration threshold."
+
+      - alert: Lab017HighNotFoundCount
+        expr: lab017_not_found_total >= 5
+        for: 5s
+        labels:
+          severity: info
+          lab: lab017
+        annotations:
+          summary: "Lab017 API has elevated 404 responses"
+          description: "The local lab API not-found counter is above the demonstration threshold."

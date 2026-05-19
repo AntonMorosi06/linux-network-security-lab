@@ -1,0 +1,33 @@
+LAB 017 EXPECTED OUTPUTS
+Grafana Dashboard and Prometheus Alert Rules
+
+Example 1
+
+[OK] Grafana monitoring stack is running.
+[INFO] API URL: http://127.0.0.1:8901/status
+[INFO] Prometheus URL: http://127.0.0.1:9096
+[INFO] Grafana URL: http://127.0.0.1:3001
+
+Meaning:
+The three-service monitoring stack started correctly.
+
+Example 2
+
+lab017_requests_total 42
+
+Meaning:
+The observable API exports request metrics.
+
+Example 3
+
+Lab017HighErrorCount
+
+Meaning:
+Prometheus loaded the local alert rule.
+
+Example 4
+
+Grafana dashboard: Linux Security Lab — Lab 017
+
+Meaning:
+The dashboard was provisioned successfully.
