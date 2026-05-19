@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420">
+  <rect width="760" height="420" fill="#111827"/>
+  <text x="30" y="40" fill="#e5e7eb" font-family="Arial" font-size="24">Local Linux Network Stack</text>
+  <g font-family="Arial" font-size="16">
+    <rect x="230" y="80" width="300" height="55" rx="8" fill="#1f2937" stroke="#93c5fd"/>
+    <text x="300" y="115" fill="#e5e7eb">Application: curl / API</text>
+    <rect x="230" y="155" width="300" height="55" rx="8" fill="#1f2937" stroke="#93c5fd"/>
+    <text x="310" y="190" fill="#e5e7eb">TCP / UDP Ports</text>
+    <rect x="230" y="230" width="300" height="55" rx="8" fill="#1f2937" stroke="#93c5fd"/>
+    <text x="315" y="265" fill="#e5e7eb">IP Address / Route</text>
+    <rect x="230" y="305" width="300" height="55" rx="8" fill="#1f2937" stroke="#93c5fd"/>
+    <text x="315" y="340" fill="#e5e7eb">Interface / Driver</text>
+    <line x1="380" y1="135" x2="380" y2="155" stroke="#e5e7eb"/>
+    <line x1="380" y1="210" x2="380" y2="230" stroke="#e5e7eb"/>
+    <line x1="380" y1="285" x2="380" y2="305" stroke="#e5e7eb"/>
+  </g>
+</svg>

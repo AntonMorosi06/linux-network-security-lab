@@ -1,0 +1,4 @@
+$ journalctl -xe
+May 20 10:00:01 host systemd[1]: Started example.service.
+May 20 10:00:05 host example[1234]: Service initialized successfully.
+May 20 10:01:10 host example[1234]: Warning: local test event generated.

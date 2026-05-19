@@ -1,0 +1,4 @@
+$ docker ps
+CONTAINER ID   IMAGE                    COMMAND                  PORTS
+abc123         linux-sec-lab015-api     "python3 /app/api.py"    127.0.0.1:8800->8800/tcp
+def456         prom/prometheus          "/bin/prometheus ..."     127.0.0.1:9095->9090/tcp

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="320" viewBox="0 0 760 320">
+  <rect width="760" height="320" fill="#0f172a"/>
+  <text x="30" y="40" fill="#e5e7eb" font-family="Arial" font-size="24">Process Lifecycle</text>
+  <g font-family="Arial" font-size="16" fill="#e5e7eb">
+    <rect x="60" y="120" width="130" height="60" rx="8" fill="#1f2937" stroke="#a7f3d0"/>
+    <text x="95" y="155">start</text>
+    <rect x="240" y="120" width="130" height="60" rx="8" fill="#1f2937" stroke="#a7f3d0"/>
+    <text x="275" y="155">running</text>
+    <rect x="420" y="120" width="130" height="60" rx="8" fill="#1f2937" stroke="#a7f3d0"/>
+    <text x="455" y="155">signal</text>
+    <rect x="600" y="120" width="130" height="60" rx="8" fill="#1f2937" stroke="#a7f3d0"/>
+    <text x="635" y="155">exit</text>
+    <line x1="190" y1="150" x2="240" y2="150" stroke="#e5e7eb"/>
+    <line x1="370" y1="150" x2="420" y2="150" stroke="#e5e7eb"/>
+    <line x1="550" y1="150" x2="600" y2="150" stroke="#e5e7eb"/>
+  </g>
+</svg>

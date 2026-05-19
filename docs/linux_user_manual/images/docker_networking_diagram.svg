@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="360" viewBox="0 0 820 360">
+  <rect width="820" height="360" fill="#0f172a"/>
+  <text x="30" y="40" fill="#e5e7eb" font-family="Arial" font-size="24">Docker Local Networking</text>
+  <g font-family="Arial" font-size="16" fill="#e5e7eb">
+    <rect x="60" y="130" width="160" height="70" rx="8" fill="#1f2937" stroke="#38bdf8"/>
+    <text x="95" y="170">Host</text>
+    <rect x="330" y="80" width="180" height="70" rx="8" fill="#1f2937" stroke="#38bdf8"/>
+    <text x="365" y="120">Reverse Proxy</text>
+    <rect x="330" y="220" width="180" height="70" rx="8" fill="#1f2937" stroke="#38bdf8"/>
+    <text x="400" y="260">API</text>
+    <rect x="610" y="150" width="160" height="70" rx="8" fill="#1f2937" stroke="#38bdf8"/>
+    <text x="650" y="190">Prometheus</text>
+    <line x1="220" y1="165" x2="330" y2="115" stroke="#e5e7eb"/>
+    <line x1="420" y1="150" x2="420" y2="220" stroke="#e5e7eb"/>
+    <line x1="510" y1="255" x2="610" y2="185" stroke="#e5e7eb"/>
+    <text x="225" y="145" fill="#cbd5e1">127.0.0.1:PORT</text>
+    <text x="430" y="190" fill="#cbd5e1">internal DNS</text>
+  </g>
+</svg>

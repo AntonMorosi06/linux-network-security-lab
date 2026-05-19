@@ -89,3 +89,20 @@ This repository will be expanded progressively with documented labs, command sni
 - Lab 019 — Incident Response Case File and Evidence Bundle
 - Lab 019 — Incident Response Case File and Evidence Bundle
 - Lab 020 — Final Master Index, Proof-of-Work Bundle and Release Candidate Review
+
+## Linux User Manual
+
+This repository also includes a practical Linux handbook:
+
+```text
+docs/linux_user_manual/
+```
+
+Start from:
+
+```text
+docs/linux_user_manual/README.md
+docs/linux_user_manual/00_LINUX_COMMAND_REFERENCE_MATRIX.md
+```
+
+The manual explains command-line usage, filesystem concepts, permissions, processes, networking, logs, Docker, monitoring, hardening and incident response commands. It is connected to the lab sequence and includes tables, examples and diagrams.

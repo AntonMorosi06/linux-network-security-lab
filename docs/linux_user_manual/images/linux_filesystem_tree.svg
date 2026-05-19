@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420">
+  <rect width="760" height="420" fill="#0f172a"/>
+  <text x="30" y="40" fill="#e5e7eb" font-family="Arial" font-size="24">Linux Filesystem Tree</text>
+  <g fill="#cbd5e1" font-family="Arial" font-size="16">
+    <text x="350" y="90">/</text>
+    <line x1="355" y1="100" x2="120" y2="160" stroke="#94a3b8"/>
+    <line x1="355" y1="100" x2="250" y2="160" stroke="#94a3b8"/>
+    <line x1="355" y1="100" x2="380" y2="160" stroke="#94a3b8"/>
+    <line x1="355" y1="100" x2="510" y2="160" stroke="#94a3b8"/>
+    <line x1="355" y1="100" x2="640" y2="160" stroke="#94a3b8"/>
+    <text x="90" y="185">/home</text>
+    <text x="230" y="185">/etc</text>
+    <text x="360" y="185">/var</text>
+    <text x="490" y="185">/usr</text>
+    <text x="620" y="185">/tmp</text>
+    <line x1="120" y1="195" x2="120" y2="250" stroke="#94a3b8"/>
+    <text x="75" y="275">/home/anton</text>
+    <line x1="380" y1="195" x2="380" y2="250" stroke="#94a3b8"/>
+    <text x="345" y="275">/var/log</text>
+    <line x1="510" y1="195" x2="510" y2="250" stroke="#94a3b8"/>
+    <text x="470" y="275">/usr/bin</text>
+  </g>
+</svg>

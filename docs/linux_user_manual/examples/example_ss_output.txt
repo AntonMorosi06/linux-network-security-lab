@@ -1,0 +1,4 @@
+$ ss -tulpen
+Netid State  Local Address:Port  Process
+tcp   LISTEN 127.0.0.1:8080      users:(("python3",pid=1234,fd=3))
+tcp   LISTEN 127.0.0.1:9090      users:(("prometheus",pid=2222,fd=8))

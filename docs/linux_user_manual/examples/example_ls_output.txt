@@ -1,0 +1,8 @@
+$ ls -la
+total 32
+drwxr-xr-x  8 anton anton 4096 May 20 10:00 .
+drwxr-xr-x 12 anton anton 4096 May 20 09:50 ..
+drwxr-xr-x  8 anton anton 4096 May 20 10:00 .git
+-rw-r--r--  1 anton anton 3200 May 20 10:00 README.md
+drwxr-xr-x  5 anton anton 4096 May 20 10:00 docs
+drwxr-xr-x  2 anton anton 4096 May 20 10:00 scripts
