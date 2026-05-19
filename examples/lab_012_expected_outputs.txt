@@ -1,0 +1,27 @@
+LAB 012 EXPECTED OUTPUTS
+Prometheus-style Metrics and Local Monitoring
+
+Example 1 - Stack up
+
+[OK] Monitoring stack is running.
+[INFO] API URL: http://127.0.0.1:8701/status
+[INFO] Metrics URL: http://127.0.0.1:8701/metrics
+[INFO] Prometheus URL: http://127.0.0.1:9090
+
+Example 2 - /metrics output
+
+# HELP lab012_requests_total Total number of HTTP requests handled by the API.
+# TYPE lab012_requests_total counter
+lab012_requests_total 42
+
+Example 3 - up query
+
+The Prometheus API returns a result where the lab012_metrics_api target has value 1.
+
+Example 4 - request counter query
+
+lab012_requests_total is available in Prometheus and increases after traffic generation.
+
+Example 5 - cleanup
+
+[OK] Monitoring stack stopped and removed.

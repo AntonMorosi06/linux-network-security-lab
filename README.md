@@ -75,3 +75,4 @@ This repository will be expanded progressively with documented labs, command sni
 - Lab 009 — Local API Security Controls
 - Lab 010 — Docker Bridge Network and Container Diagnostics
 - Lab 011 — Docker Compose API, Reverse Proxy and Local Logs
+- Lab 012 — Prometheus-style Metrics and Local Monitoring

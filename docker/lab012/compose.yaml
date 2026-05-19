@@ -1,0 +1,32 @@
+name: linux-sec-lab012-monitoring
+
+services:
+  metrics_api:
+    build:
+      context: ./api
+    container_name: lab012_metrics_api
+    networks:
+      - lab012_net
+    ports:
+      - "127.0.0.1:8701:8701"
+    environment:
+      - API_PORT=8701
+      - LAB_NAME=lab012
+    restart: unless-stopped
+
+  prometheus:
+    image: prom/prometheus:v2.55.1
+    container_name: lab012_prometheus
+    depends_on:
+      - metrics_api
+    networks:
+      - lab012_net
+    ports:
+      - "127.0.0.1:9090:9090"
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+    restart: unless-stopped
+
+networks:
+  lab012_net:
+    driver: bridge
