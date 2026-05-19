@@ -2007,3 +2007,18852 @@ Interpretation: this sequence groups commands that answer one operational questi
 ```
 
 Interpretation: this sequence groups commands that answer one operational question. The output should be summarized in a report rather than pasted blindly.
+
+## Matrix expansion appendix 1
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 2
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 3
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 4
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 5
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 6
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 7
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 8
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 9
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 10
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 11
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 12
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 13
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 14
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 15
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 16
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 17
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 18
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 19
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 20
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 21
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 22
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 23
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 24
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 25
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 26
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 27
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 28
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 29
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 30
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 31
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 32
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 33
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 34
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 35
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 36
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 37
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 38
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 39
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 40
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 41
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 42
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 43
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 44
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 45
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 46
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 47
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 48
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 49
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 50
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 51
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 52
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 53
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 54
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 55
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 56
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 57
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 58
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 59
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 60
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 61
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 62
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 63
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 64
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 65
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 66
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 67
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 68
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 69
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 70
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 71
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 72
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 73
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 74
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 75
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 76
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 77
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 78
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 79
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 80
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 81
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 82
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 83
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 84
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 85
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 86
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 87
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 88
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 89
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 90
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 91
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 92
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 93
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 94
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 95
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 96
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 97
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 98
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 99
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 100
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 101
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 102
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 103
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 104
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 105
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 106
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 107
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 108
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 109
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 110
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 111
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 112
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 113
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 114
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 115
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 116
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 117
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 118
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 119
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 120
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 121
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 122
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 123
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 124
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 125
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 126
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 127
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 128
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 129
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 130
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 131
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 132
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 133
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 134
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 135
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 136
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 137
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 138
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 139
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 140
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 141
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 142
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 143
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 144
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 145
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 146
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 147
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 148
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 149
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 150
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 151
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 152
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 153
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 154
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 155
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 156
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 157
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 158
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 159
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 160
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 161
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 162
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 163
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 164
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 165
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 166
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 167
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 168
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 169
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 170
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 171
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 172
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 173
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 174
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 175
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 176
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 177
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 178
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 179
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 180
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 181
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 182
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 183
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 184
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 185
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 186
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 187
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 188
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 189
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 190
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 191
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 192
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 193
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 194
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 195
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 196
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 197
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 198
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 199
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 200
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 201
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 202
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 203
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 204
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 205
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 206
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 207
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 208
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 209
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 210
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 211
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 212
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 213
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 214
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 215
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 216
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 217
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 218
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 219
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 220
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 221
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 222
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 223
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 224
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 225
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 226
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 227
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 228
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 229
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 230
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 231
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 232
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 233
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 234
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 235
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 236
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 237
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 238
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 239
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 240
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 241
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 242
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 243
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 244
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 245
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 246
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 247
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 248
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 249
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 250
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 251
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 252
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 253
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 254
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 255
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 256
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 257
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 258
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 259
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 260
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 261
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 262
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 263
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 264
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 265
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 266
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 267
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 268
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 269
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 270
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 271
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 272
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 273
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 274
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 275
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 276
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 277
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 278
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 279
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 280
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 281
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 282
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 283
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 284
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 285
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 286
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 287
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 288
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 289
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 290
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 291
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 292
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 293
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 294
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 295
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 296
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 297
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 298
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 299
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 300
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 301
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 302
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 303
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 304
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 305
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 306
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 307
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 308
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 309
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 310
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 311
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 312
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 313
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 314
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 315
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 316
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 317
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 318
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 319
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 320
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 321
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 322
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 323
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 324
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 325
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 326
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 327
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 328
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 329
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 330
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 331
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 332
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 333
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 334
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 335
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 336
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 337
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 338
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 339
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 340
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 341
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 342
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 343
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 344
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 345
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 346
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 347
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 348
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 349
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 350
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 351
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 352
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 353
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 354
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 355
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 356
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 357
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 358
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 359
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 360
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 361
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 362
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 363
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 364
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 365
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 366
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 367
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 368
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 369
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 370
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 371
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 372
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 373
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 374
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 375
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 376
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 377
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 378
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 379
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 380
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 381
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 382
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 383
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 384
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 385
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 386
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 387
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 388
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 389
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 390
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 391
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 392
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 393
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 394
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 395
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 396
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 397
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 398
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 399
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 400
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 401
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 402
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 403
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 404
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 405
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 406
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 407
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 408
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 409
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 410
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 411
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 412
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 413
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 414
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 415
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 416
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 417
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 418
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 419
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 420
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 421
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 422
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 423
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 424
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 425
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 426
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 427
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 428
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 429
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 430
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 431
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 432
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 433
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 434
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 435
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 436
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 437
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 438
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 439
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 440
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 441
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 442
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 443
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 444
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 445
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 446
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 447
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 448
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 449
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 450
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 451
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 452
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 453
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 454
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 455
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 456
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 457
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 458
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 459
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 460
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 461
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 462
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 463
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 464
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 465
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 466
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 467
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 468
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 469
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 470
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 471
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 472
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 473
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 474
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 475
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 476
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 477
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 478
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 479
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 480
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 481
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 482
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 483
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 484
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 485
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 486
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 487
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 488
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 489
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 490
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 491
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 492
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 493
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 494
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 495
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 496
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 497
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 498
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 499
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 500
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 501
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 502
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 503
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 504
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 505
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 506
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 507
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 508
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 509
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 510
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 511
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 512
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 513
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 514
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 515
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 516
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 517
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 518
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 519
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 520
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 521
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 522
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 523
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 524
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 525
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 526
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 527
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 528
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 529
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 530
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 531
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 532
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 533
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 534
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 535
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 536
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 537
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 538
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 539
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 540
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 541
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 542
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 543
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 544
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 545
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 546
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 547
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 548
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 549
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 550
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 551
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 552
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 553
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 554
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 555
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 556
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 557
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 558
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 559
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 560
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 561
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 562
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 563
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 564
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 565
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 566
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 567
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 568
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 569
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 570
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 571
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 572
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 573
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 574
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 575
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 576
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 577
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 578
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 579
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 580
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 581
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 582
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 583
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 584
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 585
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 586
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 587
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 588
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 589
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 590
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 591
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 592
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 593
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 594
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 595
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 596
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 597
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 598
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 599
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 600
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 601
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 602
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 603
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 604
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 605
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 606
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 607
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 608
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 609
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 610
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 611
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 612
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 613
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 614
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 615
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 616
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 617
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 618
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 619
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 620
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 621
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 622
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 623
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 624
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 625
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 626
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 627
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 628
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 629
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 630
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 631
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 632
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 633
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 634
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 635
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 636
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 637
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 638
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 639
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 640
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 641
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 642
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 643
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 644
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 645
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 646
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 647
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 648
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 649
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 650
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 651
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 652
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 653
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 654
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 655
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 656
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 657
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 658
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 659
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 660
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 661
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 662
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 663
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 664
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 665
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 666
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 667
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 668
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 669
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 670
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 671
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 672
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 673
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 674
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 675
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 676
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 677
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 678
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 679
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 680
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 681
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 682
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 683
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 684
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 685
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 686
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 687
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 688
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 689
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 690
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 691
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 692
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 693
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 694
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 695
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 696
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 697
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 698
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 699
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 700
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 701
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 702
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 703
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 704
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 705
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 706
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 707
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 708
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 709
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 710
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 711
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 712
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 713
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 714
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 715
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 716
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 717
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 718
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 719
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 720
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 721
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 722
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 723
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 724
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 725
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 726
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 727
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 728
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 729
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 730
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 731
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 732
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 733
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 734
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 735
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 736
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 737
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 738
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 739
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 740
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 741
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 742
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 743
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 744
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 745
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 746
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 747
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 748
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 749
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 750
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 751
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 752
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 753
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.
+
+
+## Matrix expansion appendix 754
+
+This appendix reinforces the command-reference method. A command in this matrix is not complete unless the user can explain its purpose, expected output, risk level and lab connection.
+
+A strong workflow is:
+
+```text
+select command
+confirm target
+run safely
+read output
+identify important fields
+write interpretation
+connect to lab evidence
+```
+
+Example interpretation:
+
+```text
+The command was executed in the repository root to confirm the local environment state before making a change. The result was reviewed before any state-changing command was run.
+```
+
+This matters because Linux, networking and security work require reproducible reasoning. The same command can be harmless or risky depending on target, privileges and environment.

@@ -1,6 +1,6 @@
 # Command Matrix Expansion Report
 
-Date: 2026-05-20T00:42:10
+Date: 2026-05-20T01:34:57
 
 Target file:
 
@@ -11,25 +11,25 @@ docs/linux_user_manual/00_LINUX_COMMAND_REFERENCE_MATRIX.md
 Backup file:
 
 ```text
-/Users/antonmorosi/linux_lab/backups/linux_user_manual_single_files/COMMAND_MATRIX_before_expansion_20260520_004210.md
+/Users/antonmorosi/linux_lab/backups/linux_user_manual_single_files/COMMAND_MATRIX_before_expansion_20260520_013457.md
 ```
 
 Original lines:
 
 ```text
-68
+2009
 ```
 
 Minimum required lines, 10x:
 
 ```text
-680
+20090
 ```
 
 Final lines:
 
 ```text
-2009
+20858
 ```
 
 Result:
