@@ -1,0 +1,37 @@
+LAB 019 EXPECTED OUTPUTS
+Incident Response Case File and Evidence Bundle
+
+Example 1
+
+[OK] Generated incident response case events:
+~/linux_lab/lab019_ir_case/events/ir_case_events.jsonl
+
+Meaning:
+Synthetic case events were generated.
+
+Example 2
+
+Case severity: HIGH
+Findings:
+  - Multiple authentication failures observed.
+  - Multiple not-found events observed.
+  - Combined authentication failure and route anomaly pattern observed.
+
+Meaning:
+The analyzer identified the synthetic training pattern.
+
+Example 3
+
+[OK] Evidence bundle created:
+~/linux_lab/lab019_ir_case/bundles/ir_case_bundle_YYYYMMDD_HHMMSS
+
+Meaning:
+A local evidence bundle was created.
+
+Example 4
+
+[OK] Final incident response report created:
+~/linux_lab/reports/ir_lab019_final_report_YYYYMMDD_HHMMSS.txt
+
+Meaning:
+The final report was generated.

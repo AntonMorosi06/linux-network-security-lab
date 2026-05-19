@@ -1,0 +1,14 @@
+{
+  "case_id": "IR-LAB019-LOCAL-001",
+  "title": "Synthetic local API authentication and routing anomaly",
+  "classification": "training",
+  "data_type": "synthetic",
+  "scope": "local defensive lab",
+  "severity": "medium",
+  "created_for": "Linux Network Security Lab",
+  "notes": [
+    "No real credentials are included.",
+    "No real systems are targeted.",
+    "All events are synthetic and safe for local analysis."
+  ]
+}

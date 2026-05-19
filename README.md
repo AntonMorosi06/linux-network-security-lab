@@ -85,3 +85,5 @@ This repository will be expanded progressively with documented labs, command sni
 - Lab 017 — Grafana Dashboard and Prometheus Alert Rules
 - Lab 017 — Grafana Dashboard and Prometheus Alert Rules
 - Lab 018 — Local SIEM-style Log Pipeline and Detection Rules
+- Lab 018 — Local SIEM-style Log Pipeline and Detection Rules
+- Lab 019 — Incident Response Case File and Evidence Bundle
