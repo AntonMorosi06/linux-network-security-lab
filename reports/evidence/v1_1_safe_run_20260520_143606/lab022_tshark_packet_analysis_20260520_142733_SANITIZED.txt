@@ -1,0 +1,44 @@
+Lab 022 — Wireshark and TShark Packet Analysis Report
+Generated: 2026-05-20T12:27:33Z
+
+Scope:
+  Synthetic PCAP analysis only.
+  No live capture.
+  No third-party traffic.
+  No Wi-Fi monitoring.
+
+Repository:
+  Branch: main
+  Commit: 089b331
+
+Requirement check:
+------------------------------------------------------------
+[INFO] Lab 022 requirement check
+[OK] python3 found: /opt/homebrew/bin/python3
+[WARN] tshark not found
+[INFO] macOS install option: brew install wireshark
+[INFO] Debian/Ubuntu install option: sudo apt install tshark
+[INFO] This lab can still generate the synthetic PCAP without tshark.
+[OK] Requirement check completed.
+------------------------------------------------------------
+
+PCAP generation:
+------------------------------------------------------------
+[OK] Synthetic PCAP created: data/lab022/local_http_dns_sample.pcap
+[INFO] Packets written: 4
+[INFO] This file contains fake lab DNS/HTTP traffic only.
+------------------------------------------------------------
+
+Analysis:
+------------------------------------------------------------
+[WARN] tshark not found.
+[INFO] PCAP generated safely at: data/lab022/local_http_dns_sample.pcap
+[INFO] Install TShark to analyze it:
+  brew install wireshark
+  sudo apt install tshark
+------------------------------------------------------------
+
+Safety conclusion:
+  The PCAP was generated synthetically.
+  No real traffic was captured.
+  Review outputs before publishing.

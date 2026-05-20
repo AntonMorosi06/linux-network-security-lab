@@ -1,0 +1,29 @@
+Lab 023 Nmap localhost scan
+Generated: 2026-05-20T12:29:07Z
+Target: 127.0.0.1
+Port: 8088
+Scope: localhost only
+
+Command: nmap -sV -p 8088 127.0.0.1
+------------------------------------------------------------
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-05-20 14:29 +0200
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000065s latency).
+
+PORT     STATE SERVICE    VERSION
+8088/tcp open  radan-http Lab023LocalHTTP/1.0 Python/3.14.4
+[REDACTED] Long Nmap service fingerprint block removed for public evidence summary.
+Nmap done: 1 IP address (1 host up) scanned in 92.51 seconds
+------------------------------------------------------------
+
+Command: nmap -p 8088 127.0.0.1
+------------------------------------------------------------
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-05-20 14:30 +0200
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000068s latency).
+
+PORT     STATE SERVICE
+8088/tcp open  radan-http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.02 seconds
+------------------------------------------------------------

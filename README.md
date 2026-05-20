@@ -225,3 +225,19 @@ scripts/run_safe_v11_labs_021_030.sh
 
 `ALL_CODES_TOGETHER_FULL` is generated from the `labs/*.md` files and extracts fenced command/code/config blocks from Labs 001-030. The safe v1.1 runner executes Labs 021-030 without forced sudo and without running gated real-audit commands.
 
+## Sanitized Evidence
+
+Sanitized evidence bundles from local lab executions are stored under:
+
+```text
+reports/evidence/
+```
+
+Raw local outputs should remain outside the repository under `~/linux_lab/reports/` or `~/linux_lab/private_outputs/` until reviewed and sanitized.
+
+Use the evidence upload helper only after running the safe v1.1 labs:
+
+```bash
+./scripts/run_safe_v11_labs_021_030.sh
+```
+

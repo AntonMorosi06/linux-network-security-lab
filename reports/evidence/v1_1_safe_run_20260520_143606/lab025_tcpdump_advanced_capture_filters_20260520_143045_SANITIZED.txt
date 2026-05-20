@@ -1,0 +1,50 @@
+Lab 025 — tcpdump Advanced Capture Filters Report
+Generated: 2026-05-20T12:30:45Z
+
+Scope:
+  Target: 127.0.0.1
+  Port: 8090
+  Traffic: local loopback HTTP service
+  No third-party traffic.
+
+Repository:
+  Branch: main
+  Commit: 089b331
+
+Requirement check:
+------------------------------------------------------------
+[INFO] Lab 025 requirement check
+[OK] python3 found: /opt/homebrew/bin/python3
+[OK] curl found: /usr/bin/curl
+[OK] tcpdump found: /usr/sbin/tcpdump
+tcpdump version 4.99.1 -- Apple version 153
+libpcap version 1.10.1
+LibreSSL 3.3.6
+[OK] Requirement check completed.
+------------------------------------------------------------
+
+Capture attempt:
+------------------------------------------------------------
+[INFO] Lab 025 loopback capture
+[INFO] Interface: lo0
+[INFO] Filter: tcp port 8090 and host 127.0.0.1
+[INFO] Output PCAP: data/lab025/lab025_loopback_http.pcap
+[INFO] Safety: loopback only
+
+[INFO] Starting tcpdump capture in background
+[WARN] tcpdump capture may require sudo/root privileges.
+[INFO] Trying without sudo. If it fails, rerun with:
+  sudo ./scripts/tcpdump_lab025_capture_loopback.sh
+[INFO] Generating local curl requests
+[INFO] Waiting for tcpdump to finish
+[WARN] tcpdump exited with status 1
+[INFO] tcpdump log:
+tcpdump: lo0: You don't have permission to capture on that device
+((cannot open BPF device) /dev/bpf0: Permission denied)
+[INFO] No third-party traffic was captured.
+------------------------------------------------------------
+
+Safety conclusion:
+  The intended capture scope is loopback only.
+  No third-party traffic is targeted.
+  Review generated PCAP before publishing.

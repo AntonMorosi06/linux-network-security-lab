@@ -1,0 +1,78 @@
+Lab 021 — Linux Security Tools Overview Report
+Generated: 2026-05-20T12:34:37Z
+
+Scope:
+  Local tool inventory and safe tool-awareness review.
+  No third-party systems were scanned.
+  No third-party traffic was captured.
+  No Wi-Fi network was tested.
+
+Repository:
+  Branch: main
+  Commit: 089b331
+  Status:
+ M data/lab028/synthetic_audit_events.jsonl
+ M data/lab029/synthetic_lynis_findings.jsonl
+ M data/lab030/synthetic_fail2ban_findings.jsonl
+?? data/lab025/
+
+Inventory output:
+------------------------------------------------------------
+[INFO] Lab 021 Linux security tools inventory
+[INFO] Date: 2026-05-20T12:34:37Z
+[INFO] Host: LOCAL_HOST
+[INFO] Kernel: Darwin LOCAL_HOST 25.2.0 Darwin Kernel Version 25.2.0: Tue Nov 18 21:03:25 PST 2025; root:xnu-12377.61.12~1/RELEASE_ARM64_T8122 arm64
+
+[SECTION] Core tools
+[OK] found: git -> /usr/bin/git
+[OK] found: python3 -> /opt/homebrew/bin/python3
+[OK] found: curl -> /usr/bin/curl
+[OK] found: openssl -> /opt/homebrew/bin/openssl
+
+[SECTION] Optional security tools
+[OK] found: tcpdump -> /usr/sbin/tcpdump
+[INFO] optional tool not found: tshark
+[OK] found: nmap -> /opt/homebrew/bin/nmap
+[INFO] optional tool not found: aircrack-ng
+[INFO] optional tool not found: airmon-ng
+[INFO] optional tool not found: airodump-ng
+[INFO] optional tool not found: nft
+[INFO] optional tool not found: iptables
+[INFO] optional tool not found: ufw
+[INFO] optional tool not found: gpg
+[INFO] optional tool not found: lynis
+[INFO] optional tool not found: auditctl
+[INFO] optional tool not found: fail2ban-client
+[INFO] optional tool not found: zeek
+[INFO] optional tool not found: suricata
+
+[SECTION] Safe version/help samples
+
+[tcpdump --version]
+tcpdump version 4.99.1 -- Apple version 153
+libpcap version 1.10.1
+LibreSSL 3.3.6
+
+[nmap --version]
+Nmap version 7.98 ( https://nmap.org )
+Platform: arm-apple-darwin25.0.0
+Compiled with: liblua-5.4.8 openssl-3.6.2 libssh2-1.11.1 libz-1.2.12 libpcre2-10.47 nmap-libpcap-(libpcap version ) nmap-libdnet-1.18.0 ipv6
+Compiled without:
+Available nsock engines: kqueue poll select
+
+[openssl version]
+OpenSSL 3.6.2 7 Apr 2026 (Library: OpenSSL 3.6.2 7 Apr 2026)
+
+[OK] Inventory completed.
+[INFO] Missing optional tools are not errors.
+[INFO] Do not run active scans, wireless tests or packet captures outside authorized labs.
+------------------------------------------------------------
+
+Interpretation:
+  Installed tools indicate what can be studied locally.
+  Missing optional tools are not failures.
+  Dual-use tools must remain restricted to authorized lab contexts.
+
+Safety conclusion:
+  This report contains local tool inventory only.
+  Review local paths and hostnames before publishing.

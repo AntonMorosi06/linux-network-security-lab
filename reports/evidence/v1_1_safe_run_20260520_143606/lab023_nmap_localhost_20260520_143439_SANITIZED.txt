@@ -1,0 +1,9 @@
+Lab 023 Nmap localhost scan
+Generated: 2026-05-20T12:34:39Z
+Target: 127.0.0.1
+Port: 8088
+Scope: localhost only
+
+Command: nmap -sV -p 8088 127.0.0.1
+------------------------------------------------------------
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-05-20 14:34 +0200

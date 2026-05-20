@@ -1,0 +1,72 @@
+Lab 023 — Nmap Localhost and Authorized Service Scanning Report
+Generated: 2026-05-20T12:29:07Z
+
+Scope:
+  Target: 127.0.0.1
+  Authorization: local machine / lab service
+  No third-party target.
+
+Repository:
+  Branch: main
+  Commit: 089b331
+
+Requirement check:
+------------------------------------------------------------
+[INFO] Lab 023 requirement check
+[OK] python3 found: /opt/homebrew/bin/python3
+[OK] nmap found: /opt/homebrew/bin/nmap
+Nmap version 7.98 ( https://nmap.org )
+Platform: arm-apple-darwin25.0.0
+Compiled with: liblua-5.4.8 openssl-3.6.2 libssh2-1.11.1 libz-1.2.12 libpcre2-10.47 nmap-libpcap-(libpcap version ) nmap-libdnet-1.18.0 ipv6
+Compiled without:
+Available nsock engines: kqueue poll select
+[OK] Requirement check completed.
+------------------------------------------------------------
+
+Localhost scan:
+------------------------------------------------------------
+[INFO] Lab 023 localhost Nmap scan
+[INFO] Target: 127.0.0.1
+[INFO] Port: 8088
+[INFO] Output: $HOME/linux_lab/reports/lab023_nmap_localhost_20260520_142907.txt
+[INFO] Safety: localhost only
+
+Lab 023 Nmap localhost scan
+Generated: 2026-05-20T12:29:07Z
+Target: 127.0.0.1
+Port: 8088
+Scope: localhost only
+
+Command: nmap -sV -p 8088 127.0.0.1
+------------------------------------------------------------
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-05-20 14:29 +0200
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000065s latency).
+
+PORT     STATE SERVICE    VERSION
+8088/tcp open  radan-http Lab023LocalHTTP/1.0 Python/3.14.4
+[REDACTED] Long Nmap service fingerprint block removed for public evidence summary.
+Nmap done: 1 IP address (1 host up) scanned in 92.51 seconds
+------------------------------------------------------------
+
+Command: nmap -p 8088 127.0.0.1
+------------------------------------------------------------
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-05-20 14:30 +0200
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000068s latency).
+
+PORT     STATE SERVICE
+8088/tcp open  radan-http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.02 seconds
+------------------------------------------------------------
+
+[OK] Scan completed.
+[INFO] Report saved to: $HOME/linux_lab/reports/lab023_nmap_localhost_20260520_142907.txt
+[INFO] Review output before publishing.
+------------------------------------------------------------
+
+Safety conclusion:
+  This report is based on localhost scanning only.
+  No third-party system was scanned.
+  No exploitation or credential collection was performed.

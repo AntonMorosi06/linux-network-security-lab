@@ -1,0 +1,58 @@
+Lab 027 — SSH Hardening and Key-Based Access Report
+Generated: 2026-05-20T12:30:49Z
+
+Scope:
+  Read-only SSH inspection and dry-run config generation.
+  No real SSH server configuration modified.
+  sshd not restarted.
+  Password login not disabled.
+
+Repository:
+  Branch: main
+  Commit: 089b331
+
+Requirement check:
+------------------------------------------------------------
+[INFO] Lab 027 SSH requirement check
+[INFO] This script does not modify SSH configuration.
+
+[OK] found: ssh -> /usr/bin/ssh
+[OK] found: ssh-keygen -> /usr/bin/ssh-keygen
+[OK] found: ssh-agent -> /usr/bin/ssh-agent
+[OK] found: ssh-add -> /usr/bin/ssh-add
+[OK] found: sshd -> /usr/sbin/sshd
+
+[ssh -V]
+OpenSSH_10.0p2, LibreSSL 3.3.6
+
+[OK] Requirement check completed.
+------------------------------------------------------------
+
+Read-only inspection:
+------------------------------------------------------------
+[INFO] Lab 027 read-only SSH inspection
+[INFO] No files will be modified.
+[INFO] Private key contents will not be printed.
+
+[INFO] No ~/.ssh directory found.
+
+[INFO] System SSH server config paths, existence only:
+[INFO] exists: /etc/ssh/sshd_config
+[INFO] exists: /etc/ssh/ssh_config
+
+[OK] Read-only SSH inspection completed.
+------------------------------------------------------------
+
+Dry-run generation:
+------------------------------------------------------------
+[OK] Generated: generated/lab027/ssh_client_config_example
+[OK] Generated: generated/lab027/sshd_config_hardening_example.conf
+[OK] Generated: generated/lab027/authorized_keys_policy_example.md
+[INFO] These files are examples only. They were not applied.
+------------------------------------------------------------
+
+Safety conclusion:
+  No private key contents were printed.
+  No SSH configuration was modified.
+  No daemon was restarted.
+  Generated files are examples only.

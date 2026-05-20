@@ -1,0 +1,54 @@
+Lab 024 — Aircrack-ng Wireless Security Awareness Report
+Generated: 2026-05-20T12:30:41Z
+
+Scope:
+  Tool awareness only.
+  Help/version output only.
+  No live wireless testing.
+  No third-party networks.
+
+Repository:
+  Branch: main
+  Commit: 089b331
+
+Requirement check:
+------------------------------------------------------------
+[INFO] Lab 024 Aircrack-ng requirement check
+[INFO] Safety: help/version awareness only
+
+[WARN] aircrack-ng not found
+[WARN] airmon-ng not found
+[WARN] airodump-ng not found
+
+[INFO] No Aircrack-ng suite tools found.
+[INFO] This is not a lab failure.
+[INFO] The lab remains awareness-first and defensive.
+[INFO] macOS install option, if needed for authorized lab study: brew install aircrack-ng
+[INFO] Debian/Ubuntu install option, if needed for authorized lab study: sudo apt install aircrack-ng
+
+[OK] Requirement check completed.
+------------------------------------------------------------
+
+Help inventory:
+------------------------------------------------------------
+[INFO] Lab 024 Aircrack-ng help inventory
+[INFO] This script prints help/version text only.
+[INFO] It does not target wireless networks.
+
+[INFO] aircrack-ng not installed; skipping help output.
+[INFO] airmon-ng not installed; skipping help output.
+[INFO] airodump-ng not installed; skipping help output.
+[OK] Help inventory completed.
+[INFO] No network was targeted. No capture was performed.
+------------------------------------------------------------
+
+Safety conclusion:
+  No Wi-Fi network was targeted.
+  No wireless traffic was captured.
+  No deauthentication was performed.
+  No handshakes were collected.
+  No password cracking was performed.
+
+Defensive conclusion:
+  Aircrack-ng is documented here only as a wireless security awareness topic.
+  Any real wireless testing requires ownership or explicit written authorization.
