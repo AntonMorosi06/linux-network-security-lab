@@ -130,3 +130,22 @@ docs/releases/LINUX_NETWORK_SECURITY_LAB_v1_0_RELEASE_NOTES.md
 
 This release note summarizes the 20-lab sequence, the complete Linux User Manual, the visual asset layer, the safety model and the skills demonstrated by the repository.
 
+## Phase v1.1 — Linux Security Tools Expansion
+
+The repository now starts a second track focused on safe Linux security tool awareness.
+
+Initial v1.1 files:
+
+```text
+docs/TOOLS_EXPANSION_PLAN_v1_1.md
+docs/tools/LINUX_SECURITY_TOOLS_MATRIX.md
+docs/tools/AIRCRACK_NG_SAFE_USAGE_POLICY.md
+labs/021_linux_security_tools_overview.md
+scripts/tools_lab021_inventory.sh
+scripts/tools_lab021_create_report.sh
+```
+
+This expansion remains local, defensive and authorized. It introduces common tools such as `tcpdump`, `tshark`, `nmap`, Aircrack-ng, firewall tools, audit tools, cryptography tools, Zeek and Suricata through safe inventory, help/version inspection, sample-PCAP planning and defensive reporting.
+
+Aircrack-ng is included only as wireless security awareness material. The repository does not provide unauthorized Wi-Fi testing or cracking workflows.
+

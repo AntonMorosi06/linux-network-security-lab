@@ -1,0 +1,30 @@
+Lab 021 expected output examples
+
+Example inventory output:
+
+[INFO] Lab 021 Linux security tools inventory
+[INFO] Host: analyst-lab
+[INFO] Kernel: Darwin example-host
+[OK] found: git
+[OK] found: python3
+[OK] found: curl
+[OK] found: openssl
+[INFO] optional tool not found: tshark
+[INFO] optional tool not found: aircrack-ng
+[INFO] optional tool not found: zeek
+[OK] Inventory completed.
+
+Example interpretation:
+
+A missing optional tool is not a failure. It simply means the local machine does not currently have that tool installed.
+
+Example safe Aircrack-ng output concept:
+
+aircrack-ng --help
+
+Expected meaning:
+The command prints help text only. It does not target a network, capture traffic, crack passwords or perform wireless testing.
+
+Example report conclusion:
+
+This lab created a local inventory of Linux security tools. No third-party system was scanned. No real network traffic was captured. Missing tools were documented as optional. Future labs must remain local, defensive and authorized.
