@@ -1,0 +1,12 @@
+# Lab 027 SSH client config example
+# DO NOT COPY BLINDLY.
+# Review paths, usernames and ports before use.
+
+Host lab-vm
+  HostName 127.0.0.1
+  Port 2222
+  User labuser
+  IdentityFile ~/.ssh/lab_ed25519
+  IdentitiesOnly yes
+  ServerAliveInterval 60
+  ServerAliveCountMax 3

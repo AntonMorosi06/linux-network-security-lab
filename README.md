@@ -158,6 +158,7 @@ Aircrack-ng is included only as wireless security awareness material. The reposi
 - Lab 024 — Aircrack-ng Wireless Security Awareness
 - Lab 025 — tcpdump Advanced Capture Filters
 - Lab 026 — Defensive Firewall Rules with nftables, iptables and ufw
+- Lab 027 — SSH Hardening and Key-Based Access
 
 ## Lab 022 — Wireshark and TShark Packet Analysis
 
@@ -178,4 +179,8 @@ Lab 025 introduces `tcpdump` through a narrow, privacy-safe loopback capture. It
 ## Lab 026 — Defensive Firewall Rules with nftables, iptables and ufw
 
 Lab 026 introduces firewall rule design through read-only inspection and dry-run examples. It explains default-deny, loopback allow, established/related traffic, allow-listing and publication risks. The lab does not apply firewall rules, flush existing rules, block ports or modify system firewall state.
+
+## Lab 027 — SSH Hardening and Key-Based Access
+
+Lab 027 introduces SSH hardening and key-based access from a defensive planning perspective. It performs read-only inspection of local SSH tooling, generates dry-run client/server configuration examples, documents key permissions and warns against publishing private keys or changing real SSH access automatically.
 

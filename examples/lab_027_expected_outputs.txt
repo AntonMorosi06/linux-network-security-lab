@@ -1,0 +1,28 @@
+Lab 027 expected output examples
+
+Requirement check:
+
+[INFO] Lab 027 SSH requirement check
+[OK] found: ssh
+[OK] found: ssh-keygen
+[INFO] optional tool not found: sshd
+[OK] Requirement check completed.
+
+Read-only inspection:
+
+[INFO] SSH directory exists: /Users/example/.ssh
+[INFO] Listing filenames and permissions only.
+-rw------- id_ed25519
+-rw-r--r-- id_ed25519.pub
+-rw-r--r-- known_hosts
+
+Dry-run config generation:
+
+[OK] Generated: generated/lab027/ssh_client_config_example
+[OK] Generated: generated/lab027/sshd_config_hardening_example.conf
+[OK] Generated: generated/lab027/authorized_keys_policy_example.md
+[INFO] These files are examples only. They were not applied.
+
+Safe interpretation:
+
+The lab inspected SSH tooling and generated example hardening files without modifying real SSH configuration.
