@@ -199,3 +199,15 @@ Lab 029 introduces Lynis as a local defensive security auditing tool. It checks 
 
 Lab 030 introduces Fail2ban-style defensive log analysis using synthetic authentication logs. It detects repeated failed-login patterns, generates dry-run filter/jail examples and writes a local report. It does not install Fail2ban, restart services, modify `/etc/fail2ban`, ban real IP addresses or use real authentication logs.
 
+## All Codes Together
+
+A consolidated command collection is available here:
+
+```text
+docs/ALL_CODES_TOGETHER.md
+docs/ALL_CODES_TOGETHER.txt
+scripts/list_lab_commands.sh
+```
+
+This document collects setup commands, safe discovery commands for Labs 001-020, exact execution commands for Labs 021-030, report locations, generated-output checks and safety reminders.
+
