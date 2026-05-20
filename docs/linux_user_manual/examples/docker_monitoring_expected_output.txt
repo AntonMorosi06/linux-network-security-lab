@@ -1,0 +1,18 @@
+# Docker and monitoring expected output examples
+
+$ docker compose ps
+NAME                  IMAGE                 STATUS          PORTS
+linux-lab-api          linux-lab-api         Up              127.0.0.1:8800->8800/tcp
+linux-lab-prometheus   prom/prometheus       Up              127.0.0.1:9095->9090/tcp
+linux-lab-grafana      grafana/grafana       Up              127.0.0.1:3001->3000/tcp
+
+Interpretation:
+The Compose stack is running and all published ports are bound to localhost.
+
+$ curl http://127.0.0.1:8800/metrics
+# HELP lab_requests_total Total local lab requests
+# TYPE lab_requests_total counter
+lab_requests_total{path="/status",status="200"} 4
+
+Interpretation:
+The service exposes Prometheus-style metrics and records request count by path and status.

@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-05-20T02:21:04+02:00",
+  "scope": "Linux User Manual visual tables, images and examples upgrade",
+  "base_dir": "docs/linux_user_manual",
+  "backup_dir": "/Users/antonmorosi/linux_lab/backups/linux_user_manual_visual_assets/visual_assets_before_upgrade_20260520_022104",
+  "safety_model": "local, defensive, authorized, no secrets, no private logs",
+  "tables_dir": "docs/linux_user_manual/tables",
+  "images_dir": "docs/linux_user_manual/images",
+  "examples_dir": "docs/linux_user_manual/examples"
+}

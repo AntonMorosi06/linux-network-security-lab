@@ -1,0 +1,17 @@
+# Networking expected output examples
+
+$ curl -i http://127.0.0.1:8080/status
+HTTP/1.0 200 OK
+Content-Type: application/json
+
+{"status":"ok","service":"local-http-lab"}
+
+Interpretation:
+The local service responded with HTTP 200. This confirms application-level reachability on localhost.
+
+$ lsof -i :8080 -P -n
+COMMAND   PID USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+Python  12345 anton  4u   IPv4 0xabc      0t0  TCP 127.0.0.1:8080 (LISTEN)
+
+Interpretation:
+Port 8080 is owned by a local Python process and is bound to 127.0.0.1, which matches local-only lab exposure.

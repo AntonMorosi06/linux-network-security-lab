@@ -1,0 +1,19 @@
+# Baseline expected output examples
+
+$ pwd
+/Users/antonmorosi/linux-network-security-lab
+
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+$ whoami
+antonmorosi
+
+$ id
+uid=501(antonmorosi) gid=20(staff) groups=20(staff),12(everyone)
+
+Interpretation:
+The commands confirm local working directory, clean repository state, active user and group context before running lab scripts.
