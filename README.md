@@ -161,6 +161,7 @@ Aircrack-ng is included only as wireless security awareness material. The reposi
 - Lab 027 — SSH Hardening and Key-Based Access
 - Lab 028 — auditd and Linux Event Auditing
 - Lab 029 — Lynis Local Security Audit
+- Lab 030 — Fail2ban Local Log-Based Protection
 
 ## Lab 022 — Wireshark and TShark Packet Analysis
 
@@ -193,4 +194,8 @@ Lab 028 introduces Linux event auditing with `auditd` from a defensive perspecti
 ## Lab 029 — Lynis Local Security Audit
 
 Lab 029 introduces Lynis as a local defensive security auditing tool. It checks whether Lynis is installed, creates synthetic GitHub-safe findings, documents privacy risks and provides an optional gated local audit command. Raw Lynis output is treated as private until reviewed and sanitized.
+
+## Lab 030 — Fail2ban Local Log-Based Protection
+
+Lab 030 introduces Fail2ban-style defensive log analysis using synthetic authentication logs. It detects repeated failed-login patterns, generates dry-run filter/jail examples and writes a local report. It does not install Fail2ban, restart services, modify `/etc/fail2ban`, ban real IP addresses or use real authentication logs.
 

@@ -48,7 +48,7 @@ publication of captured credentials
 | 027 | SSH Hardening and Key-Based Access | created |
 | 028 | auditd and Linux Event Auditing | created |
 | 029 | Lynis Local Security Audit | created |
-| 030 | Fail2ban Local Log-Based Protection | planned |
+| 030 | Fail2ban Local Log-Based Protection | created |
 | 031 | OpenSSL, Certificates and TLS Inspection | planned |
 | 032 | GPG, File Integrity and Signing | planned |
 | 033 | Zeek Network Security Monitoring from Sample PCAP | planned |

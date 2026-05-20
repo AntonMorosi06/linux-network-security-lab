@@ -1,0 +1,29 @@
+Lab 030 expected output examples
+
+Requirement check:
+
+[INFO] Lab 030 Fail2ban requirement check
+[INFO] optional tool not found: fail2ban-client
+[INFO] This is not a lab failure.
+
+Synthetic auth log:
+
+[OK] Synthetic auth log created: data/lab030/synthetic_auth.log
+[INFO] Lines written: 12
+
+Synthetic analysis:
+
+[OK] Synthetic findings created: data/lab030/synthetic_fail2ban_findings.jsonl
+[INFO] Sources analyzed: 4
+[INFO] Threshold: 3 failed attempts
+
+Dry-run config:
+
+[OK] Generated: generated/lab030/fail2ban_filter_lab_auth.conf
+[OK] Generated: generated/lab030/fail2ban_jail_lab_auth.local
+[OK] Generated: generated/lab030/fail2ban_dry_run_notes.md
+[INFO] These files were not applied.
+
+Safe interpretation:
+
+The lab used synthetic authentication logs only. No real SSH service was attacked. No real IP address was banned.
