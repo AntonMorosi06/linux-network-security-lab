@@ -154,8 +154,13 @@ Aircrack-ng is included only as wireless security awareness material. The reposi
 ## Lab 022
 
 - Lab 022 — Wireshark and TShark Packet Analysis
+- Lab 023 — Nmap Localhost and Authorized Service Scanning
 
 ## Lab 022 — Wireshark and TShark Packet Analysis
 
 Lab 022 adds a privacy-safe packet analysis workflow based on a synthetic PCAP generated locally. It introduces TShark requirement checking, DNS and HTTP display filters, field extraction, expected outputs and defensive interpretation without capturing live traffic.
+
+## Lab 023 — Nmap Localhost and Authorized Service Scanning
+
+Lab 023 introduces Nmap from a defensive and authorized perspective. It starts a small local HTTP service bound to `127.0.0.1`, scans only localhost, saves output to a local report and explains how to interpret open ports as service inventory. It does not scan external hosts, public networks or unauthorized targets.
 

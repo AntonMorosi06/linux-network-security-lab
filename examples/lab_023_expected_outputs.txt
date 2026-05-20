@@ -1,0 +1,25 @@
+Lab 023 expected output examples
+
+Requirement check:
+
+[INFO] Lab 023 requirement check
+[OK] python3 found
+[OK] nmap found
+
+Local service:
+
+[INFO] Lab 023 local HTTP service
+[INFO] Listening on http://127.0.0.1:8088
+[INFO] Stop with CTRL + C.
+
+Nmap scan example:
+
+Starting Nmap ...
+Nmap scan report for localhost (127.0.0.1)
+Host is up.
+PORT     STATE SERVICE
+8088/tcp open  radan-http
+
+Safe interpretation:
+
+The open port is expected because the lab started a local HTTP service on 127.0.0.1:8088. No external system was scanned.
