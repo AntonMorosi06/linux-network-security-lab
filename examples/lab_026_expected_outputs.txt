@@ -1,0 +1,28 @@
+Lab 026 expected output examples
+
+Requirement check:
+
+[INFO] Lab 026 firewall requirement check
+[OK] found: ss
+[INFO] optional tool not found: nft
+[INFO] optional tool not found: iptables
+[INFO] optional tool not found: ufw
+[OK] Requirement check completed.
+
+Read-only inspection on macOS:
+
+[INFO] OS: Darwin
+[INFO] Linux firewall tools may not exist on macOS.
+[INFO] pfctl found for read-only awareness.
+[INFO] No firewall rules were modified.
+
+Dry-run rule generation:
+
+[OK] Generated: generated/lab026/nftables_dry_run_rules.nft
+[OK] Generated: generated/lab026/iptables_dry_run_rules.sh
+[OK] Generated: generated/lab026/ufw_dry_run_rules.sh
+[INFO] These files are examples only. They were not applied.
+
+Safe interpretation:
+
+The lab generated defensive firewall examples but did not apply them. The system firewall state was not modified.

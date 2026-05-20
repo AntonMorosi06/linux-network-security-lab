@@ -157,6 +157,7 @@ Aircrack-ng is included only as wireless security awareness material. The reposi
 - Lab 023 — Nmap Localhost and Authorized Service Scanning
 - Lab 024 — Aircrack-ng Wireless Security Awareness
 - Lab 025 — tcpdump Advanced Capture Filters
+- Lab 026 — Defensive Firewall Rules with nftables, iptables and ufw
 
 ## Lab 022 — Wireshark and TShark Packet Analysis
 
@@ -173,4 +174,8 @@ Lab 024 introduces Aircrack-ng only as a wireless security awareness topic. It c
 ## Lab 025 — tcpdump Advanced Capture Filters
 
 Lab 025 introduces `tcpdump` through a narrow, privacy-safe loopback capture. It starts a local HTTP service on `127.0.0.1:8090`, generates local requests, captures only traffic matching `tcp port 8090 and host 127.0.0.1`, and writes a defensive report. It does not capture Wi-Fi traffic, third-party traffic or private browsing traffic.
+
+## Lab 026 — Defensive Firewall Rules with nftables, iptables and ufw
+
+Lab 026 introduces firewall rule design through read-only inspection and dry-run examples. It explains default-deny, loopback allow, established/related traffic, allow-listing and publication risks. The lab does not apply firewall rules, flush existing rules, block ports or modify system firewall state.
 

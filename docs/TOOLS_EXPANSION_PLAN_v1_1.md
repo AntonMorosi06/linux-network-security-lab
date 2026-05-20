@@ -44,7 +44,7 @@ publication of captured credentials
 | 023 | Nmap Localhost and Authorized Service Scanning | created |
 | 024 | Aircrack-ng Wireless Security Awareness | created |
 | 025 | tcpdump Advanced Capture Filters | created |
-| 026 | nftables / iptables Defensive Firewall Rules | planned |
+| 026 | Defensive Firewall Rules with nftables, iptables and ufw | created |
 | 027 | SSH Hardening and Key-Based Access | planned |
 | 028 | auditd and Linux Event Auditing | planned |
 | 029 | Lynis Local Security Audit | planned |

@@ -1,0 +1,24 @@
+# Lab 026 nftables dry-run example
+# DO NOT APPLY WITHOUT REVIEW.
+# This file is generated for documentation only.
+
+table inet lab_filter {
+  chain input {
+    type filter hook input priority 0; policy drop;
+
+    # Always allow loopback.
+    iif "lo" accept
+
+    # Allow established/related traffic.
+    ct state established,related accept
+
+    # Example documentation IP from RFC 5737, not a real trusted admin IP.
+    tcp dport 22 ip saddr 192.0.2.10 accept
+
+    # Example web service ports.
+    tcp dport { 80, 443 } accept
+
+    # Count and drop everything else.
+    counter drop
+  }
+}
