@@ -58,9 +58,8 @@ Do not scan, test, probe, or monitor systems that you do not own or do not have 
 
 ## Status
 
-Initial public baseline created.
+The repository has evolved from an initial public baseline into a complete local defensive Linux, networking and cybersecurity lab. It now includes 20 documented labs, a full Linux User Manual, visual reference assets, synthetic examples, monitoring/incident-response documentation and portfolio-oriented project structure.
 
-This repository will be expanded progressively with documented labs, command snippets, expected outputs, explanations, troubleshooting notes, and defensive security reports.
 
 ## Labs
 
@@ -80,29 +79,43 @@ This repository will be expanded progressively with documented labs, command sni
 - Lab 014 — Threat Modeling and Hardening Checklist
 - Lab 015 — Final Capstone Secure Local Service
 - Lab 016 — Release Engineering, Repository Audit and Publication Readiness
-- Lab 015 — Final Capstone Secure Local Service
-- Lab 016 — Release Engineering, Repository Audit and Publication Readiness
-- Lab 017 — Grafana Dashboard and Prometheus Alert Rules
 - Lab 017 — Grafana Dashboard and Prometheus Alert Rules
 - Lab 018 — Local SIEM-style Log Pipeline and Detection Rules
-- Lab 018 — Local SIEM-style Log Pipeline and Detection Rules
-- Lab 019 — Incident Response Case File and Evidence Bundle
 - Lab 019 — Incident Response Case File and Evidence Bundle
 - Lab 020 — Final Master Index, Proof-of-Work Bundle and Release Candidate Review
 
+
 ## Linux User Manual
 
-This repository also includes a practical Linux handbook:
+This repository includes a complete practical Linux handbook:
 
 ```text
 docs/linux_user_manual/
 ```
 
-Start from:
+The manual is structured as a portfolio-grade technical document connected to the lab sequence. It covers Linux fundamentals, filesystem usage, terminal and shell behavior, users and permissions, processes and services, networking, ports and sockets, DNS and routing, logs, package management, hardening, Docker, monitoring, incident response, troubleshooting and cybersecurity analyst workflows.
+
+Recommended entry points:
 
 ```text
+docs/linux_user_manual/PORTFOLIO_OVERVIEW.md
 docs/linux_user_manual/README.md
 docs/linux_user_manual/00_LINUX_COMMAND_REFERENCE_MATRIX.md
+docs/linux_user_manual/VISUAL_ASSETS_INDEX.md
 ```
 
-The manual explains command-line usage, filesystem concepts, permissions, processes, networking, logs, Docker, monitoring, hardening and incident response commands. It is connected to the lab sequence and includes tables, examples and diagrams.
+The manual also includes:
+
+```text
+docs/linux_user_manual/tables/
+docs/linux_user_manual/images/
+docs/linux_user_manual/examples/
+```
+
+These folders provide learning maps, risk matrices, troubleshooting decision tables, SVG diagrams, expected outputs and synthetic report examples.
+
+## Portfolio status
+
+The main Linux User Manual sequence from `README.md` and `00` through `17` is complete. The visual asset layer has also been added with Markdown tables, SVG diagrams, synthetic command output examples, an asset index and a manifest.
+
+This repository can now be presented as a defensive Linux, networking and cybersecurity proof-of-work project.
