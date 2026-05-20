@@ -211,3 +211,17 @@ scripts/list_lab_commands.sh
 
 This document collects setup commands, safe discovery commands for Labs 001-020, exact execution commands for Labs 021-030, report locations, generated-output checks and safety reminders.
 
+## All Codes Together FULL
+
+The repository includes a complete generated command/code index for the lab sequence:
+
+```text
+docs/ALL_CODES_TOGETHER_FULL.md
+docs/ALL_CODES_TOGETHER_FULL.txt
+docs/COMMAND_INDEX_001_030.md
+scripts/build_all_codes_together_full.py
+scripts/run_safe_v11_labs_021_030.sh
+```
+
+`ALL_CODES_TOGETHER_FULL` is generated from the `labs/*.md` files and extracts fenced command/code/config blocks from Labs 001-030. The safe v1.1 runner executes Labs 021-030 without forced sudo and without running gated real-audit commands.
+
