@@ -1,0 +1,24 @@
+Lab 024 expected output examples
+
+Requirement check when Aircrack-ng is installed:
+
+[INFO] Lab 024 Aircrack-ng requirement check
+[OK] aircrack-ng found: /usr/local/bin/aircrack-ng
+[OK] airmon-ng found: /usr/local/bin/airmon-ng
+[OK] airodump-ng found: /usr/local/bin/airodump-ng
+[OK] Requirement check completed.
+
+Requirement check when Aircrack-ng is not installed:
+
+[INFO] Lab 024 Aircrack-ng requirement check
+[WARN] aircrack-ng not found
+[INFO] This is not a lab failure.
+[INFO] The lab remains awareness-first and defensive.
+
+Safe interpretation:
+
+Only help/version output was inspected. No wireless network was targeted. No live capture was performed. No password cracking workflow was executed.
+
+Correct report conclusion:
+
+This lab documents Aircrack-ng from a wireless security awareness perspective only. It does not provide unauthorized capture, deauthentication or cracking workflows.
