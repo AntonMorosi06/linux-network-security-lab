@@ -43,7 +43,7 @@ publication of captured credentials
 | 022 | Wireshark and TShark Packet Analysis | created |
 | 023 | Nmap Localhost and Authorized Service Scanning | created |
 | 024 | Aircrack-ng Wireless Security Awareness | created |
-| 025 | tcpdump Advanced Capture Filters | planned |
+| 025 | tcpdump Advanced Capture Filters | created |
 | 026 | nftables / iptables Defensive Firewall Rules | planned |
 | 027 | SSH Hardening and Key-Based Access | planned |
 | 028 | auditd and Linux Event Auditing | planned |

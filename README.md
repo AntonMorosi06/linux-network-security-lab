@@ -156,6 +156,7 @@ Aircrack-ng is included only as wireless security awareness material. The reposi
 - Lab 022 — Wireshark and TShark Packet Analysis
 - Lab 023 — Nmap Localhost and Authorized Service Scanning
 - Lab 024 — Aircrack-ng Wireless Security Awareness
+- Lab 025 — tcpdump Advanced Capture Filters
 
 ## Lab 022 — Wireshark and TShark Packet Analysis
 
@@ -168,4 +169,8 @@ Lab 023 introduces Nmap from a defensive and authorized perspective. It starts a
 ## Lab 024 — Aircrack-ng Wireless Security Awareness
 
 Lab 024 introduces Aircrack-ng only as a wireless security awareness topic. It checks tool availability, records help/version-style output, documents legal and ethical boundaries, and produces a defensive Wi-Fi hardening report. It does not include live capture, deauthentication, handshake collection, password cracking or unauthorized Wi-Fi testing.
+
+## Lab 025 — tcpdump Advanced Capture Filters
+
+Lab 025 introduces `tcpdump` through a narrow, privacy-safe loopback capture. It starts a local HTTP service on `127.0.0.1:8090`, generates local requests, captures only traffic matching `tcp port 8090 and host 127.0.0.1`, and writes a defensive report. It does not capture Wi-Fi traffic, third-party traffic or private browsing traffic.
 
