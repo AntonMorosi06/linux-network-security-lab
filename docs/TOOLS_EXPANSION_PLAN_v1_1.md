@@ -40,7 +40,7 @@ publication of captured credentials
 | Lab | Title | Status |
 |---:|---|---|
 | 021 | Linux Security Tools Overview | created in this patch |
-| 022 | Wireshark and TShark Packet Analysis | planned |
+| 022 | Wireshark and TShark Packet Analysis | created |
 | 023 | Nmap Localhost and Authorized VM Scanning | planned |
 | 024 | Aircrack-ng Wireless Security Awareness | planned |
 | 025 | tcpdump Advanced Capture Filters | planned |

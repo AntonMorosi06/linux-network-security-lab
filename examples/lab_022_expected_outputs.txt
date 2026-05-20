@@ -1,0 +1,23 @@
+Lab 022 expected output examples
+
+Requirement check:
+
+[INFO] Lab 022 requirement check
+[OK] python3 found
+[OK] tshark found
+
+Synthetic PCAP generation:
+
+[OK] Synthetic PCAP created: data/lab022/local_http_dns_sample.pcap
+[INFO] Packets written: 4
+
+TShark packet summary example:
+
+1 0.000000 10.10.10.10 -> 10.10.10.53 DNS Standard query 0x1234 A lab.local
+2 0.100000 10.10.10.53 -> 10.10.10.10 DNS Standard query response 0x1234 A 10.10.10.20
+3 0.200000 10.10.10.10 -> 10.10.10.20 HTTP GET /status HTTP/1.1
+4 0.300000 10.10.10.20 -> 10.10.10.10 HTTP HTTP/1.1 200 OK
+
+Safe interpretation:
+
+The packet capture is synthetic and local. It contains fake DNS and HTTP packets created for learning packet analysis. It does not contain real user traffic.

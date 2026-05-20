@@ -149,3 +149,13 @@ This expansion remains local, defensive and authorized. It introduces common too
 
 Aircrack-ng is included only as wireless security awareness material. The repository does not provide unauthorized Wi-Fi testing or cracking workflows.
 
+
+
+## Lab 022
+
+- Lab 022 — Wireshark and TShark Packet Analysis
+
+## Lab 022 — Wireshark and TShark Packet Analysis
+
+Lab 022 adds a privacy-safe packet analysis workflow based on a synthetic PCAP generated locally. It introduces TShark requirement checking, DNS and HTTP display filters, field extraction, expected outputs and defensive interpretation without capturing live traffic.
+
