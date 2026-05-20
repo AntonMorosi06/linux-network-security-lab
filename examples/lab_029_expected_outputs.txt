@@ -1,0 +1,30 @@
+Lab 029 expected output examples
+
+Requirement check:
+
+[INFO] Lab 029 Lynis requirement check
+[OK] found: lynis -> /opt/homebrew/bin/lynis
+[lynis --version]
+3.x.x
+[OK] Requirement check completed.
+
+If Lynis is missing:
+
+[INFO] optional tool not found: lynis
+[INFO] This is not a lab failure.
+
+Synthetic findings:
+
+[OK] Synthetic Lynis-style findings created: data/lab029/synthetic_lynis_findings.jsonl
+[INFO] Findings written: 5
+[INFO] These are fake training findings.
+
+Optional local audit without confirmation:
+
+[WARN] Real local Lynis audit not started.
+[INFO] To run it explicitly:
+RUN_LYNIS_LOCAL_AUDIT=yes ./scripts/lynis_lab029_run_local_audit.sh
+
+Safe interpretation:
+
+The synthetic findings are safe for GitHub. Any real Lynis output must be reviewed and sanitized before publication.

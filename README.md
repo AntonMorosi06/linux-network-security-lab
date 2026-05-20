@@ -160,6 +160,7 @@ Aircrack-ng is included only as wireless security awareness material. The reposi
 - Lab 026 — Defensive Firewall Rules with nftables, iptables and ufw
 - Lab 027 — SSH Hardening and Key-Based Access
 - Lab 028 — auditd and Linux Event Auditing
+- Lab 029 — Lynis Local Security Audit
 
 ## Lab 022 — Wireshark and TShark Packet Analysis
 
@@ -188,4 +189,8 @@ Lab 027 introduces SSH hardening and key-based access from a defensive planning 
 ## Lab 028 — auditd and Linux Event Auditing
 
 Lab 028 introduces Linux event auditing with `auditd` from a defensive perspective. It performs read-only audit tool inspection, generates dry-run audit rules, creates synthetic audit-like JSONL events and writes a report. It does not install auditd, start/restart services, load audit rules or collect real user activity.
+
+## Lab 029 — Lynis Local Security Audit
+
+Lab 029 introduces Lynis as a local defensive security auditing tool. It checks whether Lynis is installed, creates synthetic GitHub-safe findings, documents privacy risks and provides an optional gated local audit command. Raw Lynis output is treated as private until reviewed and sanitized.
 
