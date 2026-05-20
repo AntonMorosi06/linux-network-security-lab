@@ -119,3 +119,14 @@ These folders provide learning maps, risk matrices, troubleshooting decision tab
 The main Linux User Manual sequence from `README.md` and `00` through `17` is complete. The visual asset layer has also been added with Markdown tables, SVG diagrams, synthetic command output examples, an asset index and a manifest.
 
 This repository can now be presented as a defensive Linux, networking and cybersecurity proof-of-work project.
+
+## Release notes
+
+The current portfolio-grade baseline is documented here:
+
+```text
+docs/releases/LINUX_NETWORK_SECURITY_LAB_v1_0_RELEASE_NOTES.md
+```
+
+This release note summarizes the 20-lab sequence, the complete Linux User Manual, the visual asset layer, the safety model and the skills demonstrated by the repository.
+
