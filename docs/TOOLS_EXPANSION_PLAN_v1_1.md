@@ -46,7 +46,7 @@ publication of captured credentials
 | 025 | tcpdump Advanced Capture Filters | created |
 | 026 | Defensive Firewall Rules with nftables, iptables and ufw | created |
 | 027 | SSH Hardening and Key-Based Access | created |
-| 028 | auditd and Linux Event Auditing | planned |
+| 028 | auditd and Linux Event Auditing | created |
 | 029 | Lynis Local Security Audit | planned |
 | 030 | Fail2ban Local Log-Based Protection | planned |
 | 031 | OpenSSL, Certificates and TLS Inspection | planned |

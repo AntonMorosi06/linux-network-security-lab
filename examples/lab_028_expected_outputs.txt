@@ -1,0 +1,33 @@
+Lab 028 expected output examples
+
+Requirement check on Linux:
+
+[INFO] Lab 028 auditd requirement check
+[OK] found: auditctl
+[OK] found: ausearch
+[OK] found: aureport
+[OK] Requirement check completed.
+
+Requirement check on macOS:
+
+[INFO] Lab 028 auditd requirement check
+[INFO] optional tool not found: auditctl
+[INFO] optional tool not found: ausearch
+[INFO] optional tool not found: aureport
+[INFO] macOS note: this lab is Linux auditd-oriented.
+[OK] Requirement check completed.
+
+Dry-run generation:
+
+[OK] Generated: generated/lab028/auditd_dry_run_rules.rules
+[OK] Generated: generated/lab028/auditd_rules_explanation.md
+[INFO] These rules were not loaded.
+
+Synthetic events:
+
+[OK] Synthetic audit events created: data/lab028/synthetic_audit_events.jsonl
+[INFO] Events written: 5
+
+Safe interpretation:
+
+The lab generated dry-run audit rules and synthetic audit-like events. It did not modify auditd and did not collect real user activity.

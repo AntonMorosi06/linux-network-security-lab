@@ -1,0 +1,22 @@
+# Lab 028 auditd dry-run rules
+# DO NOT LOAD AUTOMATICALLY.
+# These rules are examples for documentation and lab review only.
+
+# Watch identity-related files for writes/attribute changes.
+-w /etc/passwd -p wa -k identity_changes
+-w /etc/group -p wa -k identity_changes
+
+# Watch credential storage files for writes/attribute changes.
+-w /etc/shadow -p wa -k credential_store_changes
+-w /etc/gshadow -p wa -k credential_store_changes
+
+# Watch sudo policy.
+-w /etc/sudoers -p wa -k privilege_policy_changes
+-w /etc/sudoers.d/ -p wa -k privilege_policy_changes
+
+# Watch SSH server configuration.
+-w /etc/ssh/sshd_config -p wa -k ssh_config_changes
+
+# Example command execution syscall rule.
+# This can be noisy and privacy-sensitive. Test only in a lab.
+-a always,exit -F arch=b64 -S execve -k command_execution

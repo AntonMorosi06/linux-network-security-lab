@@ -159,6 +159,7 @@ Aircrack-ng is included only as wireless security awareness material. The reposi
 - Lab 025 — tcpdump Advanced Capture Filters
 - Lab 026 — Defensive Firewall Rules with nftables, iptables and ufw
 - Lab 027 — SSH Hardening and Key-Based Access
+- Lab 028 — auditd and Linux Event Auditing
 
 ## Lab 022 — Wireshark and TShark Packet Analysis
 
@@ -183,4 +184,8 @@ Lab 026 introduces firewall rule design through read-only inspection and dry-run
 ## Lab 027 — SSH Hardening and Key-Based Access
 
 Lab 027 introduces SSH hardening and key-based access from a defensive planning perspective. It performs read-only inspection of local SSH tooling, generates dry-run client/server configuration examples, documents key permissions and warns against publishing private keys or changing real SSH access automatically.
+
+## Lab 028 — auditd and Linux Event Auditing
+
+Lab 028 introduces Linux event auditing with `auditd` from a defensive perspective. It performs read-only audit tool inspection, generates dry-run audit rules, creates synthetic audit-like JSONL events and writes a report. It does not install auditd, start/restart services, load audit rules or collect real user activity.
 
