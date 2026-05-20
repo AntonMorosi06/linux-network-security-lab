@@ -1,0 +1,60 @@
+Lab 022 — Wireshark and TShark Packet Analysis Report
+Generated: 2026-05-20T13:22:18Z
+
+Scope:
+  Synthetic PCAP analysis only.
+  No live capture.
+  No third-party traffic.
+  No Wi-Fi monitoring.
+
+Repository:
+  Branch: main
+  Commit: 36e45de
+
+Requirement check:
+------------------------------------------------------------
+[INFO] Lab 022 requirement check
+[OK] python3 found: /opt/homebrew/bin/python3
+[OK] tshark found: /opt/homebrew/bin/tshark
+TShark (Wireshark) 4.6.6 (Git commit 3a22c3ef473d).
+
+Copyright 1998-2026 Gerald Combs <gerald@wireshark.org> and contributors.
+[OK] Requirement check completed.
+------------------------------------------------------------
+
+PCAP generation:
+------------------------------------------------------------
+[OK] Synthetic PCAP created: data/lab022/local_http_dns_sample.pcap
+[INFO] Packets written: 4
+[INFO] This file contains fake lab DNS/HTTP traffic only.
+------------------------------------------------------------
+
+Analysis:
+------------------------------------------------------------
+[INFO] Packet summary
+    1   0.000000  10.10.10.10 → 10.10.10.53  DNS 69 Standard query 0x1234 A lab.local
+    2   0.100000  10.10.10.53 → 10.10.10.10  DNS 85 Standard query response 0x1234 A lab.local A 10.10.10.20
+    3   0.200000  10.10.10.10 → 10.10.10.20  HTTP 115 GET /status HTTP/1.1 
+    4   0.300000  10.10.10.20 → 10.10.10.10  HTTP 120 HTTP/1.1 200 OK  (text/plain)
+
+[INFO] DNS packets
+    1   0.000000  10.10.10.10 → 10.10.10.53  DNS 69 Standard query 0x1234 A lab.local
+    2   0.100000  10.10.10.53 → 10.10.10.10  DNS 85 Standard query response 0x1234 A lab.local A 10.10.10.20
+
+[INFO] HTTP packets
+    3   0.200000  10.10.10.10 → 10.10.10.20  HTTP 115 GET /status HTTP/1.1 
+    4   0.300000  10.10.10.20 → 10.10.10.10  HTTP 120 HTTP/1.1 200 OK  (text/plain)
+
+[INFO] Selected fields
+1	10.10.10.10	10.10.10.53	DNS	Standard query 0x1234 A lab.local
+2	10.10.10.53	10.10.10.10	DNS	Standard query response 0x1234 A lab.local A 10.10.10.20
+3	10.10.10.10	10.10.10.20	HTTP	GET /status HTTP/1.1 
+4	10.10.10.20	10.10.10.10	HTTP	HTTP/1.1 200 OK  (text/plain)
+
+[OK] Analysis completed.
+------------------------------------------------------------
+
+Safety conclusion:
+  The PCAP was generated synthetically.
+  No real traffic was captured.
+  Review outputs before publishing.

@@ -1,0 +1,76 @@
+Lab 026 — Defensive Firewall Rules Report
+Generated: 2026-05-20T13:26:28Z
+
+Scope:
+  Read-only inspection and dry-run rule generation.
+  No firewall rules are applied.
+  No firewall rules are flushed.
+
+Repository:
+  Branch: main
+  Commit: 36e45de
+
+Requirement check:
+------------------------------------------------------------
+[INFO] Lab 026 firewall requirement check
+[INFO] This script does not modify firewall rules.
+
+[INFO] optional tool not found: ss
+[INFO] optional tool not found: nft
+[INFO] optional tool not found: iptables
+[INFO] optional tool not found: ufw
+[OK] found: pfctl -> /sbin/pfctl
+
+[INFO] OS: Darwin
+[OK] Requirement check completed.
+------------------------------------------------------------
+
+Read-only inspection:
+------------------------------------------------------------
+[INFO] Lab 026 read-only firewall inspection
+[INFO] No firewall rules will be modified.
+[INFO] OS: Darwin
+
+============================================================
+[Socket inventory]
+============================================================
+[INFO] ss not available.
+[INFO] macOS fallback: lsof -nP -iTCP -sTCP:LISTEN
+[REDACTED] Detailed local listening-process list removed before GitHub publication.
+
+============================================================
+[nftables read-only listing]
+============================================================
+[INFO] nft not found.
+
+============================================================
+[iptables read-only listing]
+============================================================
+[INFO] iptables not found.
+
+============================================================
+[ufw read-only status]
+============================================================
+[INFO] ufw not found.
+
+============================================================
+[macOS pfctl read-only awareness]
+============================================================
+[WARN] pfctl read-only info failed, possibly due to permissions.
+
+[OK] Read-only inspection completed.
+[INFO] No firewall rules were modified.
+------------------------------------------------------------
+
+Dry-run generation:
+------------------------------------------------------------
+[OK] Generated: generated/lab026/nftables_dry_run_rules.nft
+[OK] Generated: generated/lab026/iptables_dry_run_rules.sh
+[OK] Generated: generated/lab026/ufw_dry_run_rules.sh
+[INFO] These files are examples only. They were not applied.
+------------------------------------------------------------
+
+Safety conclusion:
+  No firewall rules were applied.
+  No firewall rules were flushed.
+  Generated rules are examples only.

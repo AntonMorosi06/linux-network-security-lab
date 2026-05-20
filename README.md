@@ -241,3 +241,13 @@ Use the evidence upload helper only after running the safe v1.1 labs:
 ./scripts/run_safe_v11_labs_021_030.sh
 ```
 
+## Latest Evidence Pointer
+
+The latest sanitized v1.1 safe-run evidence bundle is referenced here:
+
+```text
+reports/evidence/LATEST_V1_1_SAFE_RUN.md
+```
+
+Evidence bundles contain sanitized outputs only. Raw local outputs remain outside the repository until reviewed.
+

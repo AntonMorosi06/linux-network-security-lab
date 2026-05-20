@@ -1,0 +1,81 @@
+{
+  "generated_at": "2026-05-20T13:26:29.064048+00:00",
+  "notes": [
+    "Only reports created during this rerun were selected where possible.",
+    "Raw reports remain outside the repository under ~/linux_lab/reports.",
+    "Private local identifiers were replaced where detected.",
+    "Detailed local process listings and long Nmap fingerprints were redacted."
+  ],
+  "raw_outputs_committed": false,
+  "run_stamp": "20260520_152216",
+  "sanitized_files": [
+    {
+      "bytes": 3756,
+      "sanitized": "lab021_linux_security_tools_overview_20260520_152217_SANITIZED.txt",
+      "source": "lab021_linux_security_tools_overview_20260520_152217.txt"
+    },
+    {
+      "bytes": 2325,
+      "sanitized": "lab022_tshark_packet_analysis_20260520_152218_SANITIZED.txt",
+      "source": "lab022_tshark_packet_analysis_20260520_152218.txt"
+    },
+    {
+      "bytes": 1058,
+      "sanitized": "lab023_nmap_localhost_20260520_152220_SANITIZED.txt",
+      "source": "lab023_nmap_localhost_20260520_152220.txt"
+    },
+    {
+      "bytes": 1059,
+      "sanitized": "lab023_nmap_localhost_20260520_152421_SANITIZED.txt",
+      "source": "lab023_nmap_localhost_20260520_152421.txt"
+    },
+    {
+      "bytes": 2511,
+      "sanitized": "lab023_nmap_localhost_authorized_scanning_20260520_152421_SANITIZED.txt",
+      "source": "lab023_nmap_localhost_authorized_scanning_20260520_152421.txt"
+    },
+    {
+      "bytes": 5552,
+      "sanitized": "lab024_aircrack_ng_wireless_security_awareness_20260520_152623_SANITIZED.txt",
+      "source": "lab024_aircrack_ng_wireless_security_awareness_20260520_152623.txt"
+    },
+    {
+      "bytes": 1625,
+      "sanitized": "lab025_tcpdump_advanced_capture_filters_20260520_152625_SANITIZED.txt",
+      "source": "lab025_tcpdump_advanced_capture_filters_20260520_152625.txt"
+    },
+    {
+      "bytes": 2594,
+      "sanitized": "lab026_defensive_firewall_rules_20260520_152628_SANITIZED.txt",
+      "source": "lab026_defensive_firewall_rules_20260520_152628.txt"
+    },
+    {
+      "bytes": 1834,
+      "sanitized": "lab027_ssh_hardening_key_based_access_20260520_152628_SANITIZED.txt",
+      "source": "lab027_ssh_hardening_key_based_access_20260520_152628.txt"
+    },
+    {
+      "bytes": 4517,
+      "sanitized": "lab028_auditd_linux_event_auditing_20260520_152628_SANITIZED.txt",
+      "source": "lab028_auditd_linux_event_auditing_20260520_152628.txt"
+    },
+    {
+      "bytes": 2811,
+      "sanitized": "lab029_lynis_local_security_audit_20260520_152628_SANITIZED.txt",
+      "source": "lab029_lynis_local_security_audit_20260520_152628.txt"
+    },
+    {
+      "bytes": 2955,
+      "sanitized": "lab030_fail2ban_local_log_based_protection_20260520_152628_SANITIZED.txt",
+      "source": "lab030_fail2ban_local_log_based_protection_20260520_152628.txt"
+    },
+    {
+      "bytes": 717,
+      "sanitized": "mac_rerun_tool_check_20260520_152216_SANITIZED.txt",
+      "source": "mac_rerun_tool_check_20260520_152216.txt"
+    }
+  ],
+  "scope": "Sanitized macOS rerun evidence for Labs 021-030",
+  "source_dir": "/Users/antonmorosi/linux_lab/reports",
+  "target_dir": "reports/evidence/v1_1_mac_rerun_20260520_152216"
+}

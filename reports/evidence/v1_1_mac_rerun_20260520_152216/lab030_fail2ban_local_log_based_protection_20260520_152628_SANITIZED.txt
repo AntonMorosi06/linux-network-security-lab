@@ -1,0 +1,59 @@
+Lab 030 — Fail2ban Local Log-Based Protection Report
+Generated: 2026-05-20T13:26:28Z
+
+Scope:
+  Synthetic authentication logs only.
+  Dry-run config only.
+  Fail2ban not modified.
+  No real IPs banned.
+
+Repository:
+  Branch: main
+  Commit: 36e45de
+
+Requirement check:
+------------------------------------------------------------
+[INFO] Lab 030 Fail2ban requirement check
+[INFO] This script does not start, stop or modify Fail2ban.
+
+[OK] found: python3 -> /opt/homebrew/bin/python3
+[OK] found: fail2ban-client -> /opt/homebrew/bin/fail2ban-client
+Fail2Ban v1.1.0
+
+[OK] Requirement check completed.
+------------------------------------------------------------
+
+Synthetic log generation:
+------------------------------------------------------------
+[OK] Synthetic auth log created: data/lab030/synthetic_auth.log
+[INFO] Lines written: 12
+[INFO] No real authentication logs were read.
+------------------------------------------------------------
+
+Synthetic analysis:
+------------------------------------------------------------
+[OK] Synthetic findings created: data/lab030/synthetic_fail2ban_findings.jsonl
+[INFO] Sources analyzed: 4
+[INFO] Threshold: 3 failed attempts
+[INFO] No real auth logs were analyzed.
+------------------------------------------------------------
+
+Synthetic findings preview:
+{"failed_attempts": 3, "matched_line_count": 3, "recommendation": "Would trigger defensive review in a lab Fail2ban-style model.", "severity": "medium", "source": "synthetic", "source_ip": "192.0.2.50", "threshold": 3, "threshold_exceeded": true, "timestamp": "2026-05-20T13:26:29.025570+00:00"}
+{"failed_attempts": 1, "matched_line_count": 1, "recommendation": "Monitor only in this synthetic model.", "severity": "low", "source": "synthetic", "source_ip": "192.0.2.88", "threshold": 3, "threshold_exceeded": false, "timestamp": "2026-05-20T13:26:29.025570+00:00"}
+{"failed_attempts": 2, "matched_line_count": 2, "recommendation": "Monitor only in this synthetic model.", "severity": "low", "source": "synthetic", "source_ip": "198.51.100.23", "threshold": 3, "threshold_exceeded": false, "timestamp": "2026-05-20T13:26:29.025570+00:00"}
+{"failed_attempts": 4, "matched_line_count": 4, "recommendation": "Would trigger defensive review in a lab Fail2ban-style model.", "severity": "medium", "source": "synthetic", "source_ip": "203.0.113.77", "threshold": 3, "threshold_exceeded": true, "timestamp": "2026-05-20T13:26:29.025570+00:00"}
+
+Dry-run config generation:
+------------------------------------------------------------
+[OK] Generated: generated/lab030/fail2ban_filter_lab_auth.conf
+[OK] Generated: generated/lab030/fail2ban_jail_lab_auth.local
+[OK] Generated: generated/lab030/fail2ban_dry_run_notes.md
+[INFO] These files were not applied.
+------------------------------------------------------------
+
+Safety conclusion:
+  No real authentication logs were used.
+  No Fail2ban configuration was applied.
+  No service was restarted.
+  No IP was banned.

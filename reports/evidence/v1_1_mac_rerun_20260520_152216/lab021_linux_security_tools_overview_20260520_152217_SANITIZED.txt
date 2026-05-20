@@ -1,0 +1,109 @@
+Lab 021 — Linux Security Tools Overview Report
+Generated: 2026-05-20T13:22:17Z
+
+Scope:
+  Local tool inventory and safe tool-awareness review.
+  No third-party systems were scanned.
+  No third-party traffic was captured.
+  No Wi-Fi network was tested.
+
+Repository:
+  Branch: main
+  Commit: 36e45de
+  Status:
+
+Inventory output:
+------------------------------------------------------------
+[INFO] Lab 021 Linux security tools inventory
+[INFO] Date: 2026-05-20T13:22:18Z
+[INFO] Host: LOCAL_HOST
+[INFO] Kernel: Darwin LOCAL_HOST 25.2.0 Darwin Kernel Version 25.2.0: Tue Nov 18 21:03:25 PST 2025; root:xnu-12377.61.12~1/RELEASE_ARM64_T8122 arm64
+
+[SECTION] Core tools
+[OK] found: git -> /usr/bin/git
+[OK] found: python3 -> /opt/homebrew/bin/python3
+[OK] found: curl -> /usr/bin/curl
+[OK] found: openssl -> /opt/homebrew/bin/openssl
+
+[SECTION] Optional security tools
+[OK] found: tcpdump -> /usr/sbin/tcpdump
+[OK] found: tshark -> /opt/homebrew/bin/tshark
+[OK] found: nmap -> /opt/homebrew/bin/nmap
+[OK] found: aircrack-ng -> /opt/homebrew/bin/aircrack-ng
+[INFO] optional tool not found: airmon-ng
+[OK] found: airodump-ng -> /opt/homebrew/sbin/airodump-ng
+[INFO] optional tool not found: nft
+[INFO] optional tool not found: iptables
+[INFO] optional tool not found: ufw
+[OK] found: gpg -> /opt/homebrew/bin/gpg
+[OK] found: lynis -> /opt/homebrew/bin/lynis
+[INFO] optional tool not found: auditctl
+[OK] found: fail2ban-client -> /opt/homebrew/bin/fail2ban-client
+[OK] found: zeek -> /opt/homebrew/bin/zeek
+[OK] found: suricata -> /opt/homebrew/bin/suricata
+
+[SECTION] Safe version/help samples
+
+[tcpdump --version]
+tcpdump version 4.99.1 -- Apple version 153
+libpcap version 1.10.1
+LibreSSL 3.3.6
+
+[tshark --version]
+TShark (Wireshark) 4.6.6 (Git commit 3a22c3ef473d).
+
+Copyright 1998-2026 Gerald Combs <gerald@wireshark.org> and contributors.
+Licensed under the terms of the GNU General Public License (version 2 or later).
+This is free software; see the file named COPYING in the distribution. There is
+NO WARRANTY; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Compile-time info:
+
+[nmap --version]
+Nmap version 7.99 ( https://nmap.org )
+Platform: arm-apple-darwin25.3.0
+Compiled with: nmap-liblua-5.4.8 openssl-3.6.2 libssh2-1.11.1 libz-1.2.12 libpcre2-10.47 nmap-libpcap-1.10.6 nmap-libdnet-1.18.0 ipv6
+Compiled without:
+Available nsock engines: kqueue poll select
+
+[aircrack-ng --help]
+
+  Aircrack-ng 1.7  - (C) 2006-2022 Thomas d'Otreppe
+  https://www.aircrack-ng.org
+
+  usage: aircrack-ng [options] <input file(s)>
+
+  Common options:
+
+      -a <amode> : force attack mode (1/WEP, 2/WPA-PSK)
+      -e <essid> : target selection: network identifier
+      -b <bssid> : target selection: access point's MAC
+      -p <nbcpu> : # of CPU to use  (default: all CPUs)
+[INFO] Aircrack-ng help output only. No wireless network was targeted.
+
+[openssl version]
+OpenSSL 3.6.2 7 Apr 2026 (Library: OpenSSL 3.6.2 7 Apr 2026)
+
+[gpg --version]
+gpg (GnuPG) 2.5.20
+libgcrypt 1.12.2
+Copyright (C) 2026 g10 Code GmbH
+License GNU GPL-3.0-or-later <https://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Home: $HOME/.gnupg
+
+[OK] Inventory completed.
+[INFO] Missing optional tools are not errors.
+[INFO] Do not run active scans, wireless tests or packet captures outside authorized labs.
+------------------------------------------------------------
+
+Interpretation:
+  Installed tools indicate what can be studied locally.
+  Missing optional tools are not failures.
+  Dual-use tools must remain restricted to authorized lab contexts.
+
+Safety conclusion:
+  This report contains local tool inventory only.
+  Review local paths and hostnames before publishing.

@@ -1,0 +1,45 @@
+Lab 029 — Lynis Local Security Audit Report
+Generated: 2026-05-20T13:26:28Z
+
+Scope:
+  Requirement check and synthetic findings by default.
+  Optional real local audit is gated by RUN_LYNIS_LOCAL_AUDIT=yes.
+  Raw real output must remain private until sanitized.
+
+Repository:
+  Branch: main
+  Commit: 36e45de
+
+Requirement check:
+------------------------------------------------------------
+[INFO] Lab 029 Lynis requirement check
+[INFO] This script does not run a full audit.
+
+[OK] found: lynis -> /opt/homebrew/bin/lynis
+[lynis --version]
+3.1.6
+
+[OK] Requirement check completed.
+------------------------------------------------------------
+
+Synthetic findings generation:
+------------------------------------------------------------
+[OK] Synthetic Lynis-style findings created: data/lab029/synthetic_lynis_findings.jsonl
+[INFO] Findings written: 5
+[INFO] No real Lynis output was read.
+------------------------------------------------------------
+
+Synthetic findings preview:
+{"category": "updates", "finding_id": "LYNIS-LAB-001", "publication_safe": true, "recommendation": "Review package update status and document patching policy.", "severity": "medium", "source": "synthetic", "timestamp": "2026-05-20T13:26:28.738766+00:00", "title": "Package update review recommended"}
+{"category": "authentication", "finding_id": "LYNIS-LAB-002", "publication_safe": true, "recommendation": "Review key-based authentication, root login and password login policy.", "severity": "medium", "source": "synthetic", "timestamp": "2026-05-20T13:26:28.738766+00:00", "title": "SSH hardening review recommended"}
+{"category": "logging", "finding_id": "LYNIS-LAB-003", "publication_safe": true, "recommendation": "Confirm that security-relevant logs are retained and reviewed.", "severity": "low", "source": "synthetic", "timestamp": "2026-05-20T13:26:28.738766+00:00", "title": "Logging coverage review recommended"}
+{"category": "firewall", "finding_id": "LYNIS-LAB-004", "publication_safe": true, "recommendation": "Document inbound services and confirm default policy expectations.", "severity": "medium", "source": "synthetic", "timestamp": "2026-05-20T13:26:28.738766+00:00", "title": "Firewall policy review recommended"}
+{"category": "permissions", "finding_id": "LYNIS-LAB-005", "publication_safe": true, "recommendation": "Review permissions on sensitive configuration directories.", "severity": "low", "source": "synthetic", "timestamp": "2026-05-20T13:26:28.738766+00:00", "title": "File permission review recommended"}
+
+Optional audit guidance:
+  To run a real local Lynis audit on an owned/administered system:
+  RUN_LYNIS_LOCAL_AUDIT=yes ./scripts/lynis_lab029_run_local_audit.sh
+
+Safety conclusion:
+  Synthetic findings are safe for GitHub.
+  Real Lynis output must be reviewed and sanitized before publication.
