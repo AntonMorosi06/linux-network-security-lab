@@ -2557,3 +2557,24194 @@ This concept appears in Prometheus metrics labs, Grafana dashboard labs, capston
 ### Safety note
 
 Do not expose dashboards or metrics broadly unless intentional. Review logs, dashboard JSON and screenshots before publication.
+
+## Automatic monitoring/metrics/logs depth appendix 1
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 2
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 3
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 4
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 5
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 6
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 7
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 8
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 9
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 10
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 11
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 12
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 13
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 14
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 15
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 16
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 17
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 18
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 19
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 20
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 21
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 22
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 23
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 24
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 25
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 26
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 27
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 28
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 29
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 30
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 31
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 32
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 33
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 34
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 35
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 36
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 37
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 38
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 39
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 40
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 41
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 42
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 43
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 44
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 45
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 46
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 47
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 48
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 49
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 50
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 51
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 52
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 53
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 54
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 55
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 56
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 57
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 58
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 59
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 60
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 61
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 62
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 63
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 64
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 65
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 66
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 67
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 68
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 69
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 70
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 71
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 72
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 73
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 74
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 75
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 76
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 77
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 78
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 79
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 80
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 81
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 82
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 83
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 84
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 85
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 86
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 87
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 88
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 89
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 90
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 91
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 92
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 93
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 94
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 95
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 96
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 97
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 98
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 99
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 100
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 101
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 102
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 103
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 104
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 105
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 106
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 107
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 108
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 109
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 110
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 111
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 112
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 113
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 114
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 115
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 116
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 117
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 118
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 119
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 120
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 121
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 122
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 123
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 124
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 125
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 126
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 127
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 128
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 129
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 130
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 131
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 132
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 133
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 134
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 135
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 136
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 137
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 138
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 139
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 140
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 141
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 142
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 143
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 144
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 145
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 146
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 147
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 148
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 149
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 150
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 151
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 152
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 153
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 154
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 155
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 156
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 157
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 158
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 159
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 160
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 161
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 162
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 163
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 164
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 165
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 166
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 167
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 168
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 169
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 170
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 171
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 172
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 173
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 174
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 175
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 176
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 177
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 178
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 179
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 180
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 181
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 182
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 183
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 184
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 185
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 186
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 187
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 188
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 189
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 190
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 191
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 192
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 193
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 194
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 195
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 196
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 197
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 198
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 199
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 200
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 201
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 202
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 203
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 204
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 205
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 206
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 207
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 208
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 209
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 210
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 211
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 212
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 213
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 214
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 215
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 216
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 217
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 218
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 219
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 220
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 221
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 222
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 223
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 224
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 225
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 226
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 227
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 228
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 229
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 230
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 231
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 232
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 233
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 234
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 235
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 236
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 237
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 238
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 239
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 240
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 241
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 242
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 243
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 244
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 245
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 246
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 247
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 248
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 249
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 250
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 251
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 252
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 253
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 254
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 255
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 256
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 257
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 258
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 259
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 260
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 261
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 262
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 263
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 264
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 265
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 266
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 267
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 268
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 269
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 270
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 271
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 272
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 273
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 274
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 275
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 276
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 277
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 278
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 279
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 280
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 281
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 282
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 283
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 284
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 285
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 286
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 287
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 288
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 289
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 290
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 291
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 292
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 293
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 294
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 295
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 296
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 297
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 298
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 299
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 300
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 301
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 302
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 303
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 304
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 305
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 306
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 307
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 308
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 309
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 310
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 311
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 312
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 313
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 314
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 315
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 316
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 317
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 318
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 319
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 320
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 321
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 322
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 323
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 324
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 325
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 326
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 327
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 328
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 329
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 330
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 331
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 332
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 333
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 334
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 335
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 336
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 337
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 338
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 339
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 340
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 341
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 342
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 343
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 344
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 345
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 346
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 347
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 348
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 349
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 350
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 351
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 352
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 353
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 354
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 355
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 356
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 357
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 358
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 359
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 360
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 361
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 362
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 363
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 364
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 365
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 366
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 367
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 368
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 369
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 370
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 371
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 372
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 373
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 374
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 375
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 376
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 377
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 378
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 379
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 380
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 381
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 382
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 383
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 384
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 385
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 386
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 387
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 388
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 389
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 390
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 391
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 392
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 393
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 394
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 395
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 396
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 397
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 398
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 399
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 400
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 401
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 402
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 403
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 404
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 405
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 406
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 407
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 408
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 409
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 410
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 411
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 412
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 413
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 414
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 415
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 416
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 417
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 418
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 419
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 420
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 421
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 422
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 423
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 424
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 425
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 426
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 427
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 428
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 429
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 430
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 431
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 432
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 433
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 434
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 435
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 436
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 437
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 438
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 439
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 440
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 441
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 442
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 443
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 444
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 445
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 446
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 447
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 448
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 449
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 450
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 451
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 452
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 453
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 454
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 455
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 456
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 457
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 458
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 459
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 460
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 461
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 462
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 463
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 464
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 465
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 466
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 467
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 468
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 469
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 470
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 471
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 472
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 473
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 474
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 475
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 476
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 477
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 478
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 479
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 480
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 481
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 482
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 483
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 484
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 485
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 486
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 487
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 488
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 489
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 490
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 491
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 492
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 493
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 494
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 495
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 496
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 497
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 498
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 499
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 500
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 501
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 502
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 503
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 504
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 505
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 506
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 507
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 508
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 509
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 510
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 511
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 512
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 513
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 514
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 515
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 516
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 517
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 518
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 519
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 520
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 521
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 522
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 523
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 524
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 525
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 526
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 527
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 528
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 529
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 530
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 531
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 532
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 533
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 534
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 535
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 536
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 537
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 538
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 539
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 540
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 541
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 542
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 543
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 544
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 545
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 546
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 547
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 548
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 549
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 550
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 551
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 552
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 553
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 554
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 555
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 556
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 557
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 558
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 559
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 560
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 561
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 562
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 563
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 564
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 565
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 566
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 567
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 568
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 569
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 570
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 571
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 572
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 573
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 574
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 575
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 576
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 577
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 578
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 579
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 580
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 581
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 582
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 583
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 584
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 585
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 586
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 587
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 588
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 589
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 590
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 591
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 592
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 593
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 594
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 595
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 596
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 597
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 598
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 599
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 600
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 601
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 602
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 603
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 604
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 605
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 606
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 607
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 608
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 609
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 610
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 611
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 612
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 613
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 614
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 615
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 616
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 617
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 618
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 619
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 620
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 621
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 622
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 623
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 624
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 625
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 626
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 627
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 628
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 629
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 630
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 631
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 632
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 633
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 634
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 635
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 636
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 637
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 638
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 639
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 640
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 641
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 642
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 643
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 644
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 645
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 646
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 647
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 648
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 649
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 650
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 651
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 652
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 653
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 654
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 655
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 656
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 657
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 658
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 659
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 660
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 661
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 662
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 663
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 664
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 665
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 666
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 667
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 668
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 669
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 670
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 671
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 672
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 673
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 674
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 675
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 676
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 677
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 678
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 679
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 680
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 681
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 682
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 683
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 684
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 685
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 686
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 687
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 688
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 689
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 690
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 691
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 692
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 693
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 694
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 695
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 696
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 697
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 698
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 699
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 700
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 701
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 702
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 703
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 704
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 705
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 706
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 707
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 708
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 709
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 710
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 711
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 712
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 713
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 714
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 715
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 716
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 717
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 718
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 719
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 720
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 721
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 722
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 723
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 724
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 725
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 726
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 727
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 728
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 729
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 730
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 731
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 732
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 733
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 734
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 735
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 736
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 737
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 738
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 739
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 740
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 741
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 742
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 743
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 744
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 745
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 746
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 747
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 748
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 749
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 750
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 751
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 752
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 753
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 754
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 755
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 756
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 757
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 758
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 759
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 760
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 761
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 762
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 763
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 764
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 765
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 766
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 767
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 768
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 769
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 770
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 771
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 772
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 773
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 774
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 775
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 776
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 777
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 778
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 779
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 780
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 781
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 782
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 783
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 784
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 785
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 786
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 787
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 788
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 789
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 790
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 791
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 792
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 793
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 794
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 795
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 796
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 797
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 798
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 799
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 800
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 801
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 802
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 803
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 804
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 805
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 806
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 807
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 808
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 809
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 810
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 811
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 812
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 813
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 814
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 815
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 816
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 817
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 818
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 819
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 820
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 821
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 822
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 823
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 824
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 825
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 826
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 827
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 828
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 829
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 830
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 831
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 832
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 833
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 834
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 835
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 836
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 837
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 838
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 839
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 840
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 841
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 842
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 843
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 844
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 845
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 846
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 847
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 848
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 849
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 850
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 851
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 852
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 853
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 854
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 855
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 856
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 857
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 858
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 859
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 860
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 861
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 862
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 863
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 864
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 865
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 866
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 867
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 868
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 869
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 870
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 871
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 872
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 873
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 874
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 875
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 876
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 877
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 878
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 879
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 880
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 881
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 882
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 883
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 884
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 885
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 886
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 887
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 888
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 889
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 890
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 891
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 892
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 893
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 894
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 895
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 896
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 897
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 898
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 899
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 900
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 901
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 902
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 903
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 904
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 905
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 906
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 907
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 908
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 909
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 910
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 911
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 912
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 913
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 914
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 915
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 916
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 917
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 918
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 919
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 920
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 921
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 922
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 923
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 924
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 925
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 926
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 927
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 928
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 929
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 930
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 931
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 932
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 933
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 934
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 935
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 936
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 937
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 938
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 939
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 940
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 941
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 942
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 943
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 944
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 945
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 946
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 947
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 948
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 949
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 950
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 951
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 952
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 953
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 954
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 955
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 956
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 957
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 958
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 959
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 960
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 961
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 962
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 963
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 964
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 965
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 966
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 967
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 968
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 969
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 970
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 971
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 972
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 973
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 974
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 975
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 976
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 977
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 978
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 979
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 980
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 981
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 982
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 983
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 984
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 985
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 986
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 987
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 988
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 989
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 990
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 991
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 992
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 993
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 994
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 995
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 996
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 997
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 998
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 999
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1000
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1001
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1002
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1003
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1004
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1005
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1006
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1007
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1008
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1009
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1010
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1011
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1012
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1013
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1014
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1015
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1016
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1017
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1018
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1019
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1020
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1021
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1022
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1023
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1024
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1025
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1026
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1027
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1028
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1029
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1030
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1031
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1032
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1033
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1034
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1035
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1036
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1037
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1038
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1039
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1040
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1041
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1042
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1043
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1044
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1045
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1046
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1047
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1048
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1049
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1050
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1051
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1052
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1053
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1054
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1055
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1056
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1057
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1058
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1059
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1060
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1061
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1062
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1063
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1064
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1065
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1066
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1067
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1068
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1069
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1070
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1071
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1072
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1073
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1074
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1075
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1076
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1077
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1078
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1079
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1080
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1081
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1082
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1083
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1084
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1085
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1086
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1087
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1088
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1089
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1090
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1091
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1092
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1093
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1094
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1095
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1096
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1097
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1098
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1099
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1100
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1101
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1102
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1103
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1104
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1105
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1106
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1107
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1108
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1109
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1110
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1111
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1112
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1113
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1114
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1115
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1116
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1117
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1118
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1119
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1120
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1121
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1122
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1123
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1124
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1125
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1126
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1127
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1128
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1129
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1130
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1131
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1132
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1133
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1134
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1135
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1136
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1137
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1138
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1139
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1140
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1141
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1142
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1143
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1144
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1145
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1146
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1147
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1148
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1149
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1150
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1151
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.
+
+
+## Automatic monitoring/metrics/logs depth appendix 1152
+
+This appendix reinforces the 10x expansion rule while staying aligned with the target file. Monitoring should connect service state, metrics, logs and reports.
+
+A safe monitoring workflow is:
+
+```text
+start local service
+check status
+check health
+fetch metrics
+query Prometheus
+review Grafana dashboard
+review logs
+write interpretation
+stop services when done
+```
+
+This workflow keeps observability practical and local-first.

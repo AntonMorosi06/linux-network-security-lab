@@ -1,6 +1,6 @@
 # Monitoring, Metrics and Logs Expansion Report
 
-Date: 2026-05-20T02:07:44
+Date: 2026-05-20T02:08:53
 
 Target file:
 
@@ -11,25 +11,25 @@ docs/linux_user_manual/13_MONITORING_METRICS_AND_LOGS.md
 Backup file:
 
 ```text
-/Users/antonmorosi/linux_lab/backups/linux_user_manual_single_files/MONITORING_METRICS_LOGS_before_expansion_20260520_020744.md
+/Users/antonmorosi/linux_lab/backups/linux_user_manual_single_files/MONITORING_METRICS_LOGS_before_expansion_20260520_020853.md
 ```
 
 Original lines:
 
 ```text
-43
+2559
 ```
 
 Minimum required lines, 10x:
 
 ```text
-430
+25590
 ```
 
 Final lines:
 
 ```text
-2559
+26750
 ```
 
 Result:
