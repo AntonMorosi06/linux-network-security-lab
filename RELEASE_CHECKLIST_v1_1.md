@@ -66,7 +66,19 @@ Generated at:
 20260520_152216
 ```
 
-The pointer states that it is updated whenever a new sanitized safe-run evidence bundle is uploaded. This verifies that the repository has a documented evidence pointer, but the contents of the target bundle should still be reviewed before final release.
+The pointer states that it is updated whenever a new sanitized safe-run evidence bundle is uploaded.
+
+## Evidence Bundle Review
+
+A metadata-level evidence bundle review has been added here:
+
+```text
+reports/evidence/v1_1_mac_rerun_20260520_152216/EVIDENCE_REVIEW.md
+```
+
+The review verifies the bundle README, run summary, manifest, declared scope, macOS platform, safety notes and raw-output policy. It confirms that the bundle is acceptable as the current v1.1 evidence pointer.
+
+Important limitation: this is not a full manual line-by-line review of every sanitized output file. A deeper file-by-file pass is still recommended before final release tagging.
 
 ## Safety Checklist
 
@@ -81,20 +93,20 @@ The pointer states that it is updated whenever a new sanitized safe-run evidence
 | [ ] | tcpdump/TShark examples avoid private traffic. |
 | [ ] | Firewall labs do not unexpectedly modify real system state. |
 | [ ] | auditd/Lynis/Fail2ban outputs are synthetic or sanitized. |
-| [ ] | Raw outputs remain outside the repository. |
+| [x] | Raw outputs remain outside the repository. |
 
 ## Evidence Checklist
 
 | Done | Requirement |
 |---|---|
 | [x] | `reports/evidence/LATEST_V1_1_SAFE_RUN.md` exists or is created. |
-| [ ] | Evidence states environment and scope. |
-| [ ] | Evidence states that only local/synthetic/authorized activity was used. |
+| [x] | Evidence states environment and scope. |
+| [x] | Evidence states that only local/synthetic/authorized activity was used. |
 | [ ] | Evidence contains no secrets. |
 | [ ] | Evidence contains no private keys. |
 | [ ] | Evidence contains no raw authentication logs. |
 | [ ] | Evidence contains no private screenshots. |
-| [ ] | Evidence explains what the run proves. |
+| [x] | Evidence explains what the run proves. |
 
 ## Portfolio Checklist
 
