@@ -40,11 +40,33 @@ The release must remain:
 | [x] | `LAB_INDEX.md` exists. |
 | [x] | `PORTFOLIO_SUMMARY.md` exists. |
 | [x] | `EVIDENCE.md` exists. |
-| [ ] | README links to the new portfolio/status files. |
+| [x] | README links to the new portfolio/status files. |
 | [ ] | v1.1 release notes exist or are updated. |
 | [ ] | Labs 021-030 each have clear safety notes. |
 | [ ] | All command indexes point to current labs. |
-| [ ] | Evidence pointer is verified. |
+| [x] | Evidence pointer is verified. |
+
+## Evidence Pointer Verification
+
+The latest v1.1 safe-run evidence pointer has been verified.
+
+```text
+reports/evidence/LATEST_V1_1_SAFE_RUN.md
+```
+
+Current pointer target:
+
+```text
+reports/evidence/v1_1_mac_rerun_20260520_152216
+```
+
+Generated at:
+
+```text
+20260520_152216
+```
+
+The pointer states that it is updated whenever a new sanitized safe-run evidence bundle is uploaded. This verifies that the repository has a documented evidence pointer, but the contents of the target bundle should still be reviewed before final release.
 
 ## Safety Checklist
 
@@ -65,7 +87,7 @@ The release must remain:
 
 | Done | Requirement |
 |---|---|
-| [ ] | `reports/evidence/LATEST_V1_1_SAFE_RUN.md` exists or is created. |
+| [x] | `reports/evidence/LATEST_V1_1_SAFE_RUN.md` exists or is created. |
 | [ ] | Evidence states environment and scope. |
 | [ ] | Evidence states that only local/synthetic/authorized activity was used. |
 | [ ] | Evidence contains no secrets. |
@@ -79,12 +101,12 @@ The release must remain:
 | Done | Requirement |
 |---|---|
 | [ ] | Repository can be described in one sentence. |
-| [ ] | README entry points are clear. |
-| [ ] | `PORTFOLIO_SUMMARY.md` is linked from README. |
-| [ ] | Current status is clear. |
-| [ ] | Limitations are clear. |
-| [ ] | Evidence is clear. |
-| [ ] | v1.1 scope is clear. |
+| [x] | README entry points are clear. |
+| [x] | `PORTFOLIO_SUMMARY.md` is linked from README. |
+| [x] | Current status is clear. |
+| [x] | Limitations are clear. |
+| [x] | Evidence is clear. |
+| [x] | v1.1 scope is clear. |
 | [ ] | Repository is ready to be pinned or linked from portfolio. |
 
 ## Suggested Release Tag
