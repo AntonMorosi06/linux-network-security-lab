@@ -2,6 +2,96 @@
 
 All notable changes to this repository are documented in this file.
 
+## [1.1.0] — Safe Tools Expansion release candidate
+
+Release status: release candidate
+
+Release notes:
+
+```text
+docs/releases/LINUX_NETWORK_SECURITY_LAB_v1_1_RELEASE_NOTES.md
+```
+
+### Added
+
+Added a v1.1 safe tools expansion track, extending the repository from the original defensive baseline into a 30-lab local learning sequence.
+
+The v1.1 expansion includes:
+
+```text
+Lab 021 — Linux Security Tools Overview
+Lab 022 — Wireshark and TShark Packet Analysis
+Lab 023 — Nmap Localhost and Authorized Service Scanning
+Lab 024 — Aircrack-ng Wireless Security Awareness
+Lab 025 — tcpdump Advanced Capture Filters
+Lab 026 — Defensive Firewall Rules with nftables, iptables and ufw
+Lab 027 — SSH Hardening and Key-Based Access
+Lab 028 — auditd and Linux Event Auditing
+Lab 029 — Lynis Local Security Audit
+Lab 030 — Fail2ban Local Log-Based Protection
+```
+
+### Documentation
+
+Added or updated reviewer-facing and portfolio-facing documents:
+
+```text
+CURRENT_STATUS.md
+KNOWN_LIMITATIONS.md
+LAB_INDEX.md
+PORTFOLIO_SUMMARY.md
+EVIDENCE.md
+RELEASE_CHECKLIST_v1_1.md
+docs/releases/LINUX_NETWORK_SECURITY_LAB_v1_1_RELEASE_NOTES.md
+```
+
+### Evidence and review layer
+
+Added release-candidate evidence and review documents:
+
+```text
+reports/evidence/LATEST_V1_1_SAFE_RUN.md
+reports/evidence/v1_1_mac_rerun_20260520_152216/EVIDENCE_REVIEW.md
+reports/evidence/v1_1_mac_rerun_20260520_152216/FILE_BY_FILE_SAFETY_REVIEW.md
+docs/reviews/LABS_021_030_SAFETY_REVIEW.md
+docs/reviews/COMMAND_INDEX_001_030_REVIEW.md
+docs/reviews/V1_1_RELEASE_READINESS_REVIEW.md
+docs/reviews/PORTFOLIO_PUBLICATION_REVIEW.md
+```
+
+### Portfolio readiness
+
+The repository is now suitable to present as a portfolio-ready candidate for defensive Linux, networking and local security learning.
+
+Recommended public description:
+
+```text
+Defensive Linux and network security lab with 30 local, documented labs covering system diagnostics, networking, logs, monitoring, evidence handling and safe security-tool awareness.
+```
+
+### Safety and limitations
+
+The release remains:
+
+```text
+local
+controlled
+defensive
+authorized
+privacy-aware
+evidence-reviewed
+```
+
+This release does not present the repository as an offensive toolkit, production security platform, enterprise monitoring system or guarantee of system security.
+
+### Remaining decision
+
+The repository is ready for a final release/tag decision after confirming whether to use:
+
+```text
+v1.1.0-safe-tools-expansion
+```
+
 ## [0.1.0] — Public baseline candidate
 
 ### Added
