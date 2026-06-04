@@ -35,7 +35,7 @@ This repository demonstrates the ability to:
 | Containers and namespaces | Docker bridge diagnostics and Linux namespace topologies |
 | Monitoring | Prometheus-style metrics, Grafana-style dashboards, alert rules |
 | Detection and response | SIEM-style logs, detection rules, incident response case files |
-| Security tools | Local and authorized awareness of Nmap, auditd, Lynis, Fail2ban and Aircrack-ng boundaries |
+| Security tools | Local and authorized awareness of common Linux/security-adjacent tools with explicit safety boundaries |
 
 ## Why It Is Portfolio-Relevant
 
@@ -56,10 +56,10 @@ For a reviewer, the repository can provide evidence of:
 | Dimension | Status |
 |---|---|
 | Documentation | Strong baseline |
-| Lab sequence | Labs 001-020 complete baseline; Labs 021-030 v1.1 expansion |
-| Safety model | Strong local/defensive boundary |
-| Evidence model | Sanitized evidence only |
-| Public readiness | High after final review |
+| Lab sequence | Labs 001-020 complete baseline; Labs 021-030 v1.1 release-candidate expansion |
+| Safety model | Reviewed and consistent with local/defensive boundaries |
+| Evidence model | Sanitized evidence with metadata and targeted file-by-file review |
+| Public readiness | Portfolio-ready candidate; final tag should wait for changelog/release decision |
 | Best label | `portfolio-ready candidate` |
 
 ## Recommended Reading Path
@@ -70,15 +70,25 @@ For a fast review, use this order:
 2. `CURRENT_STATUS.md`
 3. `LAB_INDEX.md`
 4. `KNOWN_LIMITATIONS.md`
-5. `docs/releases/LINUX_NETWORK_SECURITY_LAB_v1_0_RELEASE_NOTES.md`
-6. `docs/ALL_CODES_TOGETHER_FULL.md`
-7. `reports/evidence/LATEST_V1_1_SAFE_RUN.md`, if available
+5. `PORTFOLIO_SUMMARY.md`
+6. `EVIDENCE.md`
+7. `docs/releases/LINUX_NETWORK_SECURITY_LAB_v1_1_RELEASE_NOTES.md`
+8. `docs/reviews/V1_1_RELEASE_READINESS_REVIEW.md`
+9. `docs/reviews/LABS_021_030_SAFETY_REVIEW.md`
+10. `docs/reviews/COMMAND_INDEX_001_030_REVIEW.md`
+11. `reports/evidence/LATEST_V1_1_SAFE_RUN.md`, if available
 
 ## Safe Claim for CV or Portfolio
 
 The following description can be used safely in a CV or portfolio:
 
 > Built a defensive Linux and network security laboratory with 30 staged local labs covering system diagnostics, networking, logs, services, firewall concepts, packet analysis, monitoring, incident-response documentation and safe security-tool awareness. The project uses localhost, containers, namespaces and sanitized evidence to keep all exercises controlled, reproducible and authorized.
+
+## Short GitHub Profile Description
+
+```text
+Defensive Linux and network security lab with 30 local, documented labs covering system diagnostics, networking, logs, monitoring, evidence handling and safe security-tool awareness.
+```
 
 ## Claims to Avoid
 
@@ -91,12 +101,21 @@ Do not present this repository as:
 - an enterprise security product;
 - a guarantee of system security.
 
-## Next Portfolio Polish Tasks
+## Publication Recommendation
+
+The repository can be linked from a portfolio or GitHub profile as a defensive learning and proof-of-work project.
+
+Recommended public positioning:
+
+```text
+Portfolio-ready candidate. Safe to link after the v1.1 changelog entry and final release/tag decision are completed.
+```
+
+## Remaining Portfolio Polish Tasks
 
 | Priority | Task |
 |---:|---|
-| 1 | Confirm evidence pointers and sanitized output policy. |
-| 2 | Add v1.1 release checklist. |
-| 3 | Create GitHub issues for final documentation polish. |
-| 4 | Add screenshots or terminal-output examples if they are sanitized. |
-| 5 | Add this repository to the main portfolio site and GitHub profile once final review is complete. |
+| 1 | Add or update the v1.1 changelog entry. |
+| 2 | Decide whether to create the `v1.1.0-safe-tools-expansion` release tag. |
+| 3 | Decide whether to pin the repository on the GitHub profile. |
+| 4 | Link this repository from the main portfolio once the final release/tag decision is complete. |
