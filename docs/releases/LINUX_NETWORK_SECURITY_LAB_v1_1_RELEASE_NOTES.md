@@ -26,6 +26,8 @@ This release builds on the v1.0 baseline, which introduced the core defensive la
 | Evidence review | Adds metadata-level and targeted file-by-file review documents for the v1.1 evidence bundle. |
 | Portfolio entry points | Adds clearer reviewer-facing documents: current status, known limitations, lab index, evidence policy and portfolio summary. |
 | Release checklist | Adds a dedicated checklist for tracking release readiness. |
+| Safety review | Adds a formal review confirming that Labs 021-030 contain clear safety boundaries. |
+| Command-index review | Adds a formal review confirming that the command-index layer covers Labs 001-030. |
 
 ## Main Files Added or Updated
 
@@ -40,6 +42,8 @@ This release builds on the v1.0 baseline, which introduced the core defensive la
 | `reports/evidence/LATEST_V1_1_SAFE_RUN.md` | Points to the current sanitized v1.1 safe-run evidence bundle. |
 | `reports/evidence/v1_1_mac_rerun_20260520_152216/EVIDENCE_REVIEW.md` | Reviews the evidence bundle metadata, scope and safety notes. |
 | `reports/evidence/v1_1_mac_rerun_20260520_152216/FILE_BY_FILE_SAFETY_REVIEW.md` | Reviews the highest-risk sanitized evidence files before release. |
+| `docs/reviews/LABS_021_030_SAFETY_REVIEW.md` | Confirms that Labs 021-030 include clear safety boundaries and are consistent with the repository scope. |
+| `docs/reviews/COMMAND_INDEX_001_030_REVIEW.md` | Confirms that the command index layer covers Labs 001-030 and matches the v1.1 safe runner. |
 | `README.md` | Updated with reviewer entry points and clearer portfolio framing. |
 
 ## Lab Coverage
@@ -125,7 +129,7 @@ Built a defensive Linux and network security laboratory with 30 staged local lab
 Current status:
 
 ```text
-Release candidate.
+Release candidate, documentation-ready.
 ```
 
 Completed readiness items:
@@ -139,18 +143,20 @@ Completed readiness items:
 - release checklist added;
 - evidence pointer verified;
 - evidence metadata review added;
-- targeted file-by-file evidence safety review added.
+- targeted file-by-file evidence safety review added;
+- Labs 021-030 safety review completed;
+- command-index review for Labs 001-030 completed;
+- GitHub release-polish issues created.
 
 Remaining recommended items before final release tag:
 
-1. Confirm that all Labs 021-030 have clear safety notes in their individual lab files.
-2. Confirm that generated command indexes point to the current lab sequence.
-3. Create GitHub issues for the last release-polish tasks.
-4. Optionally add a final `CHANGELOG.md` entry for v1.1.
-5. Review whether the repository should be pinned or linked from the main portfolio after release.
+1. Complete the portfolio publication pass.
+2. Decide whether to pin or link the repository from the main portfolio.
+3. Optionally add a final `CHANGELOG.md` entry for v1.1.
+4. Create the final release tag only after the portfolio publication pass is complete.
 
 ## Final Release Note
 
-Version 1.1 should be considered a strong portfolio-stage release candidate. The repository now has clear scope, documented limitations, reviewer entry points, evidence review and a structured release checklist.
+Version 1.1 should be considered a strong portfolio-stage release candidate. The repository now has clear scope, documented limitations, reviewer entry points, evidence review, safety review, command-index review and a structured release checklist.
 
-The final release tag should be created only after the remaining checklist items have been reviewed.
+The final release tag should be created only after the remaining portfolio publication pass has been reviewed.
