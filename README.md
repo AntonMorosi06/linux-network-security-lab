@@ -4,6 +4,42 @@ This repository contains a local and defensive Linux laboratory focused on syste
 
 The purpose of this project is to document practical Linux, networking, and cybersecurity exercises in a safe environment using localhost, local services, virtual network namespaces, containers, and controlled scripts.
 
+## Reviewer Entry Points
+
+For a fast review of the repository, start here:
+
+| File | Purpose |
+|---|---|
+| [`CURRENT_STATUS.md`](CURRENT_STATUS.md) | Explains the real current status of the project, what is complete, what is in progress, and what is portfolio-ready. |
+| [`KNOWN_LIMITATIONS.md`](KNOWN_LIMITATIONS.md) | Defines the safety scope, local-only boundaries, privacy limitations and claims that must not be made. |
+| [`LAB_INDEX.md`](LAB_INDEX.md) | Provides a clean index of Labs 001-030 with status, skill area and safety boundary. |
+| [`PORTFOLIO_SUMMARY.md`](PORTFOLIO_SUMMARY.md) | Gives a one-page portfolio/CV-oriented explanation of what this project demonstrates. |
+| [`EVIDENCE.md`](EVIDENCE.md) | Explains the sanitized evidence model, what can be published, and what must remain private until reviewed. |
+| [`RELEASE_CHECKLIST_v1_1.md`](RELEASE_CHECKLIST_v1_1.md) | Tracks the remaining work before the v1.1 safe tools expansion can be marked as release-ready. |
+
+## Portfolio Summary
+
+`linux-network-security-lab` is a defensive Linux, networking and cybersecurity proof-of-work repository. It demonstrates practical competence with Linux diagnostics, network inspection, local services, logs, packet analysis, monitoring concepts, incident-response-style documentation and safe security-tool awareness.
+
+The project is designed for local and authorized environments only. It does not provide offensive workflows, unauthorized scanning, Wi-Fi cracking, credential attacks or production SOC functionality.
+
+Recommended safe CV description:
+
+```text
+Built a defensive Linux and network security laboratory with 30 staged local labs covering system diagnostics, networking, logs, services, firewall concepts, packet analysis, monitoring, incident-response documentation and safe security-tool awareness. The project uses localhost, containers, namespaces and sanitized evidence to keep all exercises controlled, reproducible and authorized.
+```
+
+## Current Status Snapshot
+
+| Area | Status |
+|---|---|
+| Repository maturity | `validated-offline` / `portfolio-ready candidate` |
+| v1.0 baseline | Complete defensive Linux/networking lab baseline with Labs 001-020 |
+| v1.1 expansion | Active safe security tools expansion with Labs 021-030 |
+| Evidence model | Sanitized evidence only; raw local outputs stay outside the repository until reviewed |
+| Public safety posture | Local-only, defensive-only, authorized-only |
+| Best next action | Finish v1.1 release checklist and verify evidence pointers |
+
 ## Scope
 
 This repository is designed for defensive learning and local experimentation only. The exercises are intended to be executed on a personal machine, virtual machine, container, local namespace lab, or explicitly authorized environment.
@@ -31,8 +67,15 @@ The project includes:
 
 ## Repository structure
 
+```text
 linux-network-security-lab/
   README.md
+  CURRENT_STATUS.md
+  KNOWN_LIMITATIONS.md
+  LAB_INDEX.md
+  PORTFOLIO_SUMMARY.md
+  EVIDENCE.md
+  RELEASE_CHECKLIST_v1_1.md
   docs/
   labs/
   scripts/
@@ -42,6 +85,7 @@ linux-network-security-lab/
   notes/
   security/
   examples/
+```
 
 ## Safety rule
 
@@ -60,6 +104,7 @@ Do not scan, test, probe, or monitor systems that you do not own or do not have 
 
 The repository has evolved from an initial public baseline into a complete local defensive Linux, networking and cybersecurity lab. It now includes 20 documented labs, a full Linux User Manual, visual reference assets, synthetic examples, monitoring/incident-response documentation and portfolio-oriented project structure.
 
+The v1.1 expansion adds safe security-tool awareness labs while preserving the same local, defensive and authorized boundary.
 
 ## Labs
 
@@ -83,7 +128,22 @@ The repository has evolved from an initial public baseline into a complete local
 - Lab 018 — Local SIEM-style Log Pipeline and Detection Rules
 - Lab 019 — Incident Response Case File and Evidence Bundle
 - Lab 020 — Final Master Index, Proof-of-Work Bundle and Release Candidate Review
+- Lab 021 — Linux Security Tools Overview
+- Lab 022 — Wireshark and TShark Packet Analysis
+- Lab 023 — Nmap Localhost and Authorized Service Scanning
+- Lab 024 — Aircrack-ng Wireless Security Awareness
+- Lab 025 — tcpdump Advanced Capture Filters
+- Lab 026 — Defensive Firewall Rules with nftables, iptables and ufw
+- Lab 027 — SSH Hardening and Key-Based Access
+- Lab 028 — auditd and Linux Event Auditing
+- Lab 029 — Lynis Local Security Audit
+- Lab 030 — Fail2ban Local Log-Based Protection
 
+For the structured reviewer-friendly version of the lab sequence, see:
+
+```text
+LAB_INDEX.md
+```
 
 ## Linux User Manual
 
@@ -120,6 +180,12 @@ The main Linux User Manual sequence from `README.md` and `00` through `17` is co
 
 This repository can now be presented as a defensive Linux, networking and cybersecurity proof-of-work project.
 
+For the short portfolio-facing explanation, see:
+
+```text
+PORTFOLIO_SUMMARY.md
+```
+
 ## Release notes
 
 The current portfolio-grade baseline is documented here:
@@ -129,6 +195,12 @@ docs/releases/LINUX_NETWORK_SECURITY_LAB_v1_0_RELEASE_NOTES.md
 ```
 
 This release note summarizes the 20-lab sequence, the complete Linux User Manual, the visual asset layer, the safety model and the skills demonstrated by the repository.
+
+The v1.1 release checklist is tracked here:
+
+```text
+RELEASE_CHECKLIST_v1_1.md
+```
 
 ## Phase v1.1 — Linux Security Tools Expansion
 
@@ -148,20 +220,6 @@ scripts/tools_lab021_create_report.sh
 This expansion remains local, defensive and authorized. It introduces common tools such as `tcpdump`, `tshark`, `nmap`, Aircrack-ng, firewall tools, audit tools, cryptography tools, Zeek and Suricata through safe inventory, help/version inspection, sample-PCAP planning and defensive reporting.
 
 Aircrack-ng is included only as wireless security awareness material. The repository does not provide unauthorized Wi-Fi testing or cracking workflows.
-
-
-
-## Lab 022
-
-- Lab 022 — Wireshark and TShark Packet Analysis
-- Lab 023 — Nmap Localhost and Authorized Service Scanning
-- Lab 024 — Aircrack-ng Wireless Security Awareness
-- Lab 025 — tcpdump Advanced Capture Filters
-- Lab 026 — Defensive Firewall Rules with nftables, iptables and ufw
-- Lab 027 — SSH Hardening and Key-Based Access
-- Lab 028 — auditd and Linux Event Auditing
-- Lab 029 — Lynis Local Security Audit
-- Lab 030 — Fail2ban Local Log-Based Protection
 
 ## Lab 022 — Wireshark and TShark Packet Analysis
 
@@ -241,6 +299,12 @@ Use the evidence upload helper only after running the safe v1.1 labs:
 ./scripts/run_safe_v11_labs_021_030.sh
 ```
 
+For the evidence policy and checklist, see:
+
+```text
+EVIDENCE.md
+```
+
 ## Latest Evidence Pointer
 
 The latest sanitized v1.1 safe-run evidence bundle is referenced here:
@@ -251,3 +315,12 @@ reports/evidence/LATEST_V1_1_SAFE_RUN.md
 
 Evidence bundles contain sanitized outputs only. Raw local outputs remain outside the repository until reviewed.
 
+## Next Steps
+
+| Priority | Action |
+|---:|---|
+| 1 | Verify the latest sanitized evidence pointer. |
+| 2 | Complete the `RELEASE_CHECKLIST_v1_1.md` documentation, safety and evidence checks. |
+| 3 | Create GitHub issues for final v1.1 polish. |
+| 4 | Prepare the release title `Linux Network Security Lab v1.1 — Safe Security Tools Expansion`. |
+| 5 | Link this repository from the main portfolio once final review is complete. |
